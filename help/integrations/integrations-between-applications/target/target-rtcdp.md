@@ -8,9 +8,10 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer, User
 level: Beginner
 index: false
+thumbnail: rtcdp-target.png
 badgeIntegration: label="Integrazione" type="positive"
 last-substantial-update: 2023-07-25T00:00:00Z
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 3%
