@@ -1,17 +1,19 @@
 ---
-title: Configurazioni di integrazione per le applicazioni Adobe Experience Cloud - per soluzione
-description: Configurazioni di integrazione comuni per le applicazioni Adobe Experience Cloud organizzate per soluzioni.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: Configurazioni dell'integrazione delle applicazioni - per soluzione aziendale
+description: Scopri le configurazioni di integrazione comuni per applicazioni Experience Cloud, organizzate per soluzioni aziendali.
+exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 10%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
+# Configurazioni di integrazione per Experience Cloud, organizzate per soluzione
 
-# Configurazioni di integrazione per le applicazioni Adobe Experience Cloud - per soluzione
+Questa sezione aiuta chiunque abbia un’esigenza aziendale, ma non è sicuro di quali applicazioni Adobi utilizzare e di come integrarle. Di seguito sono elencate molte delle configurazioni di integrazione più comuni, organizzate per soluzioni (marketing B2B, catena di fornitura dei contenuti, approfondimenti sui dati e attivazione, ecc.).
 
-Questa sezione aiuterà chiunque abbia una necessità di business, ma non è sicuro di quali prodotti Adobi utilizzare e come integrarli.  Abbiamo organizzato molte delle configurazioni di integrazione più comuni per i prodotti aziendali di Adobe per categorie di soluzioni.  Tieni presente che esistono diversi modi per configurare i prodotti Adobe in base all’ambiente.  L’obiettivo di questa sezione è quello di fornire indicazioni che puoi distribuire così come è o modificare per soddisfare le esigenze del tuo ambiente.
+Tieni presente che esistono diversi modi per configurare le applicazioni Adobe, a seconda dell’ambiente. L’obiettivo di questa sezione è fornire indicazioni su come distribuirle così come sono o modificarle per soddisfare le esigenze del tuo ambiente.
 
 <table>
 <tr>
@@ -24,7 +26,7 @@ Questa sezione aiuterà chiunque abbia una necessità di business, ma non è sic
     </td>
    <td>
       <a  href="./commerce.md"><img alt="commerce" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         Commercio digitale B2B e B2C
       </p>
@@ -40,14 +42,14 @@ Questa sezione aiuterà chiunque abbia una necessità di business, ma non è sic
 <tr>
    <td>
       <a  href="./content-supply-chain.md"><img alt="Catena di fornitura contenuto" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
-      <div><strong><a href="./content-supply-chain.md">Catena di fornitura contenuto</a></strong></div>
+      <div><strong><a href="./content-supply-chain.md">Catena di fornitura dei contenuti</a></strong></div>
       <p>
         Accelerare la creazione e la distribuzione dei contenuti
       </p> 
     </td>
    <td>
       <a  href="./customer-journeys.md"><img alt="Percorsi cliente" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
-      <div><strong><a href="./customer-journeys.md">Percorsi cliente</a></strong></div>
+      <div><strong><a href="./customer-journeys.md">Percorsi di clienti</a></strong></div>
       <p>
         Orchestrazione e consegna omni-channel
       </p> 
@@ -69,4 +71,3 @@ Questa sezione aiuterà chiunque abbia una necessità di business, ma non è sic
       </p>
    </td>
 </table>
-
