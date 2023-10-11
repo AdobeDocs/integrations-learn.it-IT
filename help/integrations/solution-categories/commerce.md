@@ -1,13 +1,13 @@
 ---
-title: Commerce
+title: Integrazioni di applicazioni per commerce
 description: Crea esperienze di e-commerce multicanale su un’unica piattaforma con la nostra soluzione di e-commerce flessibile e basata sull’intelligenza artificiale.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 4%
+source-wordcount: '165'
+ht-degree: 3%
 
 ---
-
 
 # [!DNL Commerce]
 
@@ -49,7 +49,7 @@ Crea esperienze di e-commerce multicanale su un’unica piattaforma con la nostr
  </tr> 
  <tr>
    <td><strong>Analisi dei dati e reporting<strong></td>
-   <td>Valuta il funnel di conversione del negozio commerciale, gli ordini, i ricavi e le metriche per visite e visitatori.</td>
+   <td>Valuta il funnel di conversione del negozio commerciale, gli ordini, i ricavi e le metriche relative a visite e visitatori.</td>
    <td><ul style="margin-top: 0;"><li>Approfondimenti sui dati e reporting sulle attività di e-commerce.</li><li>Ottieni informazioni complete su Adobe [!DNL Commerce] memorizza le prestazioni utilizzando le metriche e le dimensioni chiave selezionate.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] e [!DNL Analytics]</a></td>
  </tr>

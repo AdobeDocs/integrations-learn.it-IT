@@ -1,17 +1,18 @@
 ---
-title: Catena di fornitura dei contenuti
+title: Integrazioni di applicazioni per la supply chain dei contenuti
 description: Pianifica, crea, personalizza e pubblica i contenuti.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
 
-
 # Catena di fornitura dei contenuti
 
 Pianifica, crea, personalizza e pubblica contenuti indimenticabili per ogni cliente, alla velocità del momento.
+
 Per soddisfare le aspettative dei clienti in tempo reale su esperienze personalizzate sono necessari più contenuti digitali che mai. Con le soluzioni per la gestione delle risorse e il flusso di lavoro creativo di Adobe, i team possono pianificare, creare e distribuire contenuti personalizzati su larga scala che supportano il percorso dei clienti in ogni punto di contatto.
 
 <table>

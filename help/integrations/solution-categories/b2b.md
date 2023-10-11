@@ -1,13 +1,13 @@
 ---
-title: Marketing B2B
+title: Integrazioni di applicazioni per il marketing B2B
 description: Coordinare la gestione dei lead, l’ABM e l’attribuzione su larga scala tra i canali in base ai profili cliente e ai dati unificati.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 2%
 
 ---
-
 
 # Marketing B2B
 

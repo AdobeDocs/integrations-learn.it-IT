@@ -1,17 +1,19 @@
 ---
-title: Gestione dei contenuti
-description: Nel panorama digitale attuale, soddisfare le esigenze specifiche di milioni di clienti rappresenta una sfida importante. Tuttavia, non finisce qui. Per avere successo, devi anche essere in grado di individuare, collegare e riutilizzare rapidamente su scala globale le risorse approvate su vari dispositivi e canali. Inoltre, è fondamentale acquisire informazioni sull'efficacia di tali esperienze. Scopri una soluzione completa che ti consente di creare facilmente esperienze digitali personalizzate, garantendo al contempo la gestione delle risorse in tempo reale, la distribuzione efficiente e la valutazione delle prestazioni.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+title: Integrazioni di applicazioni per la gestione dei contenuti
+description: Scopri una soluzione completa che ti consente di creare facilmente esperienze digitali personalizzate, garantendo al contempo la gestione delle risorse in tempo reale, la distribuzione efficiente e la valutazione delle prestazioni.
+exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 0%
+source-wordcount: '671'
+ht-degree: 1%
 
 ---
 
-
 # Gestione dei contenuti
 
-Nel panorama digitale attuale, soddisfare le esigenze specifiche di milioni di clienti rappresenta una sfida importante. Tuttavia, non finisce qui. Per avere successo, devi anche essere in grado di individuare, collegare e riutilizzare rapidamente su scala globale le risorse approvate su vari dispositivi e canali. Inoltre, è fondamentale acquisire informazioni sull&#39;efficacia di tali esperienze. Scopri una soluzione completa che ti consente di creare facilmente esperienze digitali personalizzate, garantendo al contempo la gestione delle risorse in tempo reale, la distribuzione efficiente e la valutazione delle prestazioni.
+Nel panorama digitale attuale, soddisfare le esigenze specifiche di milioni di clienti rappresenta una sfida importante. Tuttavia, non finisce qui. Per avere successo, devi anche essere in grado di individuare, collegare e riutilizzare rapidamente su scala globale le risorse approvate su vari dispositivi e canali. Inoltre, è fondamentale acquisire informazioni sull&#39;efficacia di tali esperienze.
+
+Scopri una soluzione completa che ti consente di creare facilmente esperienze digitali personalizzate, garantendo al contempo la gestione delle risorse in tempo reale, la distribuzione efficiente e la valutazione delle prestazioni.
 
 <table>
  <thead>

@@ -1,13 +1,13 @@
 ---
-title: Percorso di clienti
+title: Integrazioni di applicazioni per il percorso di clienti
 description: Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per creare percorsi personalizzati cross-channel.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: eb653b89-db0f-433a-8641-bbeb32197096
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
-
 
 # Percorso di clienti
 
@@ -118,4 +118,3 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
 </tr>
 </tbody>
 </table>
-
