@@ -1,11 +1,11 @@
 ---
 title: Configurazioni dell'integrazione delle applicazioni - per soluzione aziendale
-description: Scopri le configurazioni di integrazione comuni per applicazioni Experience Cloud, organizzate per soluzioni aziendali.
+description: Scopri le configurazioni di integrazione comuni per applicazioni Experience Cloud, organizzate in base a soluzioni aziendali.
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
