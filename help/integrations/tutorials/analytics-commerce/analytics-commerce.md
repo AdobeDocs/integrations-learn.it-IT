@@ -12,13 +12,13 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="Integrazione" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
+source-git-commit: 46803595cf8e199e0c331ea8b82f7fe4a2afc801
 workflow-type: tm+mt
-source-wordcount: '887'
-ht-degree: 4%
+source-wordcount: '821'
+ht-degree: 1%
 
 ---
-
 
 # Integrare [!DNL Analytics] con [!DNL Commerce]
 
@@ -50,12 +50,12 @@ Per maggiori dettagli su ciascuna fase e fase del processo di onboarding, segui 
 
 1. Creare una nuova suite di rapporti in Adobe [!DNL Analytics], o identifica l&#39;ID della suite di rapporti che verrà inviata [!DNL Commerce] dati in. Per ulteriori informazioni, guarda un tutorial su [creazione di una nuova suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it). Questo ID suite di rapporti è necessario nel passaggio dello stream di dati seguente.
 
-1. Accedi a [Adobe Experience [!DNL Platform] Interfaccia](https://platform.adobe.com) se hai accesso a Experience [!DNL Platform]. Se non hai accesso a tale interfaccia, puoi eseguire tutti i passaggi necessari elencati di seguito in Adobe Experience [!DNL Platform] [Interfaccia di Data Collection](https://experience.adobe.com/it#/data-collection).
+1. Accedi a [Esperienza Adobe [!DNL Platform] Interfaccia](https://platform.adobe.com) se hai accesso a Experience [!DNL Platform]. Se non hai accesso a tale interfaccia, puoi eseguire tutti i passaggi necessari elencati di seguito nell’esperienza di Adobe [!DNL Platform] [Interfaccia di Data Collection](https://experience.adobe.com/#/data-collection).
 
 1. Crea o aggiorna lo schema XDM con [!DNL Commerce]gruppi di campi specifici di. Per ulteriori informazioni su come creare uno schema, consulta [&quot;Creare schemi&quot;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=it) esercitazione.
    * Dovrai selezionare questo schema dalle opzioni nel passaggio dello stream di dati seguente. Per creare uno schema, cerca nella colonna a sinistra sotto **Gestione dati** e trova **Schemi**. Ora fai clic su in alto a destra nell’interfaccia **Crea schema**. Seleziona ExperienceEvent XDM.
    * Dopo aver creato un nuovo schema, aggiungi [!DNL Commerce] gruppi di campi. Sul lato sinistro dell’interfaccia utente, individua i gruppi di campi e fai clic su **Aggiungi**
-      * Nella ricerca, puoi filtrare immettendo `ExperienceEvent [!DNL Commerce]`
+      * Nella ricerca, puoi filtrare immettendo `ExperienceEvent Commerce`
       * Seleziona la **Adobe [!DNL Analytics] ExperienceEvent[!DNL Commerce]** selezionando la casella
       * Quindi fai clic su **Aggiungi gruppi di campi** in alto a destra per salvare e continuare
 
@@ -71,11 +71,11 @@ Per maggiori dettagli su ciascuna fase e fase del processo di onboarding, segui 
    * Clic **Nuovo flusso di dati** in alto a destra nell’interfaccia.
    * Fornisci un nome e una descrizione facoltativa.
    * Trova e seleziona lo schema creato/identificato nel passaggio precedente.
-   * Aggiungi le opzioni avanzate desiderate. Per ulteriori informazioni sulle opzioni avanzate, visita il [documentazione](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html).
+   * Aggiungi le opzioni avanzate desiderate. Per ulteriori informazioni sulle opzioni avanzate, visita il [documentazione](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html?lang=it).
    * Clic **Salva** per continuare.
    * Clic **Aggiungi servizio** e scegli **Adobe[!DNL Analytics]** nel campo a discesa.
    * Clic **Aggiungi suite di rapporti** e immetti l’ID suite di rapporti creato/identificato in un passaggio precedente. Puoi aggiungere più di una suite di rapporti se desideri che i dati fluiscano in più suite di rapporti.
-   * Facoltativamente, e se hai creato un set di dati in un passaggio precedente, fai clic su **Aggiungi servizio** di nuovo, scegliendo **Adobe Experience[!DNL Platform]** dal campo a discesa. Nel campo Set di dati evento, seleziona il set di dati creato in precedenza.
+   * Facoltativamente, e se hai creato un set di dati in un passaggio precedente, fai clic su **Aggiungi servizio** di nuovo, scegliendo **Esperienza Adobe[!DNL Platform]** dal campo a discesa. Nel campo Set di dati evento, seleziona il set di dati creato in precedenza.
    * Salva lo stream di dati.
 
 1. Per visualizzare [!DNL Commerce] dati, dovrai passare ad Analysis Workspace in Adobe [!DNL Analytics], crea un progetto, scegli la tua suite di rapporti e aggiungi tabelle a forma libera e altre visualizzazioni per generare rapporti e analizzare i tuoi [!DNL Commerce] dati. L’immagine seguente mostra un esempio di tabella che è possibile creare in Analysis Workspace.
@@ -87,6 +87,6 @@ Per maggiori dettagli su ciascuna fase e fase del processo di onboarding, segui 
    * [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
    * [Creazione di un progetto Workspace da zero](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
    * [Utilizzo di tabelle, visualizzazioni e pannelli in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
-   * [Casi d’uso per le visualizzazioni](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
+   * [Casi di utilizzo delle visualizzazioni](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
 
-   Inoltre, sono disponibili corsi gratuiti su Experience League. Consulta [!DNL Analytics] corsi disponibili [QUI](https://experienceleague.adobe.com/?lang=en&amp;Solution=[!DNL Analytics]#courses).
+   Inoltre, sono disponibili corsi gratuiti su Experience League. Consulta [!DNL Analytics] corsi disponibili [QUI](https://experienceleague.adobe.com/?lang=en&amp;Solution=Analytics#courses).
