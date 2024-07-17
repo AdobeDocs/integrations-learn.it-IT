@@ -1,6 +1,6 @@
 ---
-title: Integrare [!DNL Analytics] con [!DNL Commerce] esercitazione
-description: Scopri come integrare [!DNL Analytics] con [!DNL Commerce].
+title: Integra [!DNL Analytics] con [!DNL Commerce] esercitazione
+description: Scopri come integrare  [!DNL Analytics] con [!DNL Commerce].
 solution: Analytics, Commerce
 feature: Integrations
 topic: Integrations
@@ -16,69 +16,70 @@ exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
 source-git-commit: 46803595cf8e199e0c331ea8b82f7fe4a2afc801
 workflow-type: tm+mt
 source-wordcount: '821'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Integrare [!DNL Analytics] con [!DNL Commerce]
+# Integra [!DNL Analytics] con [!DNL Commerce]
 
 ## Onboarding iniziale
 
-Queste istruzioni sono per Adobe [!DNL Commerce] Progetti ospitati dal cloud. L’hosting autonomo può variare in una certa misura, ma il processo complessivo dovrebbe essere simile.
+Queste istruzioni sono per Adobe [!DNL Commerce] progetti ospitati da Cloud. L’hosting autonomo può variare in una certa misura, ma il processo complessivo dovrebbe essere simile.
 
 1. Verifica il codice nell’ambiente locale
 1. Utilizzare il compositore e installare il modulo
 1. Segui le singole istruzioni qui e, una volta completato, torna indietro per completare i passaggi rimanenti
-   [Installare e configurare l’esperienza [!DNL Platform] connettore](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}
+   [Installa e configura Experience [!DNL Platform] connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}
 
 
 1. Eseguire il commit del file compositore.json e, se nel cloud, del file compositore.lock
-1. Verifica che il modulo si trovi negli ambienti di staging e/o produzione Effettuando l’accesso alla sezione di amministrazione di Adobe [!DNL Commerce] e cercando queste nuove sezioni in Sistema > Servizi
-   ![Esperienza [!DNL Platform] estensione del connettore](./assets/analytics-commerce/admin-view-experience-platform-commector-extension.png)
+1. Verifica che il modulo si trovi negli ambienti di staging e/o produzione
+Per eseguire questa operazione, accedere alla sezione di amministrazione dell&#39;Adobe [!DNL Commerce] e cercare queste nuove sezioni in Sistema > Servizi
+   ![Estensione connettore [!DNL Platform] esperienza](./assets/analytics-commerce/admin-view-experience-platform-commector-extension.png)
 
-1. Configura il modulo con le tue credenziali dall’interno dell’Adobe [!DNL Commerce] back office.
-   * Prima il [!DNL Commerce] Configurazioni del connettore servizi, come illustrato di seguito.
-     ![[!DNL Commerce] Configurazione di Services Connector](./assets/analytics-commerce/commerce-services-connector-setup.png)
-   * Poi l’esperienza [!DNL Platform] impostazioni del connettore, come illustrato di seguito.
+1. Configurare il modulo con le credenziali dall&#39;interno del back office Adobe [!DNL Commerce].
+   * Innanzitutto le configurazioni del connettore dei servizi [!DNL Commerce], come illustrato di seguito.
+     Installazione di ![[!DNL Commerce] Services Connector](./assets/analytics-commerce/commerce-services-connector-setup.png)
+   * Quindi le impostazioni del connettore Experience [!DNL Platform], come illustrato di seguito.
      ![Esperienza [!DNL Platform] connettore](./assets/analytics-commerce/experience-platform-connector.png)
 
-Per maggiori dettagli su ciascuna fase e fase del processo di onboarding, segui le istruzioni riportate sulla sezione [Esperienza [!DNL Platform] panoramica del connettore](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}. L&#39;esperienza [!DNL Platform] il tutorial sul connettore descrive in modo approfondito ogni sezione e fornisce risposte a eventuali domande. Utilizza questa esercitazione per gli altri passaggi della configurazione rapida.
+Per maggiori dettagli su ogni fase e passaggio del processo di onboarding, segui le istruzioni riportate nella [Panoramica del connettore [!DNL Platform] Experience](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}. Il tutorial sul connettore Experience [!DNL Platform] tratta ogni sezione in modo approfondito e risponde alle tue eventuali domande. Utilizza questa esercitazione per gli altri passaggi della configurazione rapida.
 
 ## Configurazione di Experience Edge e Adobe [!DNL Analytics]
 
-1. Verifica che la tua organizzazione abbia (e tu abbia) accesso a Adobe [!DNL Analytics]. Per confermare, vai al [Home page di Adobe Experience Cloud](https://experience.adobe.com/) e facendo clic sul selettore dell’applicazione (nove punti) nella navigazione superiore.
+1. Verifica che la tua organizzazione disponga dell&#39;accesso all&#39;Adobe [!DNL Analytics]. Per confermare questa operazione, vai alla [home page di Adobe Experience Cloud](https://experience.adobe.com/) e fai clic sul selettore dell&#39;applicazione (nove punti) nella navigazione superiore.
 
-1. Creare una nuova suite di rapporti in Adobe [!DNL Analytics], o identifica l&#39;ID della suite di rapporti che verrà inviata [!DNL Commerce] dati in. Per ulteriori informazioni, guarda un tutorial su [creazione di una nuova suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it). Questo ID suite di rapporti è necessario nel passaggio dello stream di dati seguente.
+1. Crea una nuova suite di rapporti nell&#39;Adobe [!DNL Analytics] o identifica l&#39;ID della suite di rapporti in cui verranno inseriti i dati di [!DNL Commerce]. Per ulteriori informazioni, guarda un&#39;esercitazione su [creazione di una nuova suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html). Questo ID suite di rapporti è necessario nel passaggio dello stream di dati seguente.
 
-1. Accedi a [Esperienza Adobe [!DNL Platform] Interfaccia](https://platform.adobe.com) se hai accesso a Experience [!DNL Platform]. Se non hai accesso a tale interfaccia, puoi eseguire tutti i passaggi necessari elencati di seguito nell’esperienza di Adobe [!DNL Platform] [Interfaccia di Data Collection](https://experience.adobe.com/#/data-collection).
+1. Se hai accesso all&#39;esperienza [!DNL Platform], passa a [Adobe Experience [!DNL Platform] interface](https://platform.adobe.com). Se non hai accesso a tale interfaccia, puoi eseguire tutti i passaggi necessari elencati di seguito nell&#39;interfaccia [!DNL Platform] [Raccolta dati](https://experience.adobe.com/#/data-collection) dell&#39;esperienza Adobe.
 
-1. Crea o aggiorna lo schema XDM con [!DNL Commerce]gruppi di campi specifici di. Per ulteriori informazioni su come creare uno schema, consulta [&quot;Creare schemi&quot;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=it) esercitazione.
-   * Dovrai selezionare questo schema dalle opzioni nel passaggio dello stream di dati seguente. Per creare uno schema, cerca nella colonna a sinistra sotto **Gestione dati** e trova **Schemi**. Ora fai clic su in alto a destra nell’interfaccia **Crea schema**. Seleziona ExperienceEvent XDM.
-   * Dopo aver creato un nuovo schema, aggiungi [!DNL Commerce] gruppi di campi. Sul lato sinistro dell’interfaccia utente, individua i gruppi di campi e fai clic su **Aggiungi**
-      * Nella ricerca, puoi filtrare immettendo `ExperienceEvent Commerce`
-      * Seleziona la **Adobe [!DNL Analytics] ExperienceEvent[!DNL Commerce]** selezionando la casella
+1. Crea o aggiorna lo schema XDM con gruppi di campi specifici per [!DNL Commerce]. Per ulteriori informazioni su come creare uno schema, vedere l&#39;esercitazione [&quot;Creare schemi&quot;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=it).
+   * Dovrai selezionare questo schema dalle opzioni nel passaggio dello stream di dati seguente. Per creare uno schema, cerca nella colonna sinistra in **Gestione dati** e trova **Schemi**. Ora fai clic su **Crea schema** in alto a destra nell&#39;interfaccia. Seleziona ExperienceEvent XDM.
+   * Dopo aver creato un nuovo schema, aggiungerai i gruppi di campi [!DNL Commerce]. Sul lato sinistro dell&#39;interfaccia utente, individua i gruppi di campi e fai clic su **Aggiungi**
+      * Nella ricerca, è possibile filtrare immettendo `ExperienceEvent Commerce`
+      * Seleziona **Adobe [!DNL Analytics] ExperienceEvent[!DNL Commerce]** selezionando la casella
       * Quindi fai clic su **Aggiungi gruppi di campi** in alto a destra per salvare e continuare
 
-1. Facoltativamente (e solo se sei nell’esperienza [!DNL Platform] ) - Crea un nuovo set di dati
-   * Questo passaggio ti consente di portare [!DNL Commerce] dati nell’esperienza [!DNL Platform] (separatamente da portare i dati in Adobe [!DNL Analytics]). Esegui questo passaggio se hai accesso a Experience [!DNL Platform]e prevedono di utilizzare il [!DNL Commerce] dati nell’esperienza [!DNL Platform]- applicazioni supportate, come Real-Time Customer Data [!DNL Platform], Percorso di clienti [!DNL Analytics]o Journey Optimizer.
+1. Facoltativamente (e solo se ti trovi nell&#39;interfaccia Esperienza [!DNL Platform]) - Crea un nuovo set di dati
+   * Questo passaggio ti consente di inserire i dati di [!DNL Commerce] nell&#39;esperienza [!DNL Platform] (separatamente da quelli di Adobe [!DNL Analytics]). Eseguire questo passaggio se si dispone dell&#39;accesso all&#39;esperienza [!DNL Platform] e si prevede di utilizzare i dati di [!DNL Commerce] nelle applicazioni supportate da Experience [!DNL Platform], come Real-Time Customer Data [!DNL Platform], Customer Percorsi [!DNL Analytics] o Journey Optimizer.
    * Dovrai selezionare questo set di dati dalle opzioni nel passaggio dello stream di dati seguente.
-   * Sotto la colonna sinistra **Gestione dati** nel menu di navigazione a sinistra, seleziona **Set di dati**.
-   * Clic **Crea set di dati** in alto a destra. Scegli la **Crea set di dati dallo schema** opzione.
+   * Nell&#39;intestazione della colonna sinistra **Gestione dati** nel menu di navigazione di sinistra, seleziona **Set di dati**.
+   * Fai clic su **Crea set di dati** in alto a destra. Scegli l&#39;opzione **Crea set di dati dallo schema**.
    * Cerca e utilizza lo schema creato nell’ultimo passaggio
 
-1. Creare lo stream di dati per inviare [!DNL Commerce] dati da Adobe [!DNL Analytics]
-   * Sotto **Raccolta dati** nella colonna sinistra, seleziona **Flussi di dati**.
-   * Clic **Nuovo flusso di dati** in alto a destra nell’interfaccia.
+1. Crea lo stream di dati per inviare i dati [!DNL Commerce] all&#39;Adobe [!DNL Analytics]
+   * Sotto l&#39;intestazione **Raccolta dati** nella colonna sinistra, selezionare **Flussi dati**.
+   * Fai clic su **Nuovo flusso di dati** in alto a destra nell&#39;interfaccia.
    * Fornisci un nome e una descrizione facoltativa.
    * Trova e seleziona lo schema creato/identificato nel passaggio precedente.
-   * Aggiungi le opzioni avanzate desiderate. Per ulteriori informazioni sulle opzioni avanzate, visita il [documentazione](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html?lang=it).
-   * Clic **Salva** per continuare.
-   * Clic **Aggiungi servizio** e scegli **Adobe[!DNL Analytics]** nel campo a discesa.
-   * Clic **Aggiungi suite di rapporti** e immetti l’ID suite di rapporti creato/identificato in un passaggio precedente. Puoi aggiungere più di una suite di rapporti se desideri che i dati fluiscano in più suite di rapporti.
-   * Facoltativamente, e se hai creato un set di dati in un passaggio precedente, fai clic su **Aggiungi servizio** di nuovo, scegliendo **Esperienza Adobe[!DNL Platform]** dal campo a discesa. Nel campo Set di dati evento, seleziona il set di dati creato in precedenza.
+   * Aggiungi le opzioni avanzate desiderate. Per ulteriori informazioni sulle opzioni avanzate, visita la [documentazione](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html?lang=it).
+   * Fai clic su **Salva** per continuare.
+   * Fai clic su **Aggiungi servizio** e scegli **Adobe[!DNL Analytics]** nel campo a discesa.
+   * Fai clic su **Aggiungi suite di rapporti** e immetti l&#39;ID suite di rapporti creato/identificato in un passaggio precedente. Puoi aggiungere più di una suite di rapporti se desideri che i dati fluiscano in più suite di rapporti.
+   * Facoltativamente e se hai creato un set di dati in un passaggio precedente, fai di nuovo clic su **Aggiungi servizio**, scegliendo **Esperienza Adobe[!DNL Platform]** dal campo a discesa. Nel campo Set di dati evento, seleziona il set di dati creato in precedenza.
    * Salva lo stream di dati.
 
-1. Per visualizzare [!DNL Commerce] dati, dovrai passare ad Analysis Workspace in Adobe [!DNL Analytics], crea un progetto, scegli la tua suite di rapporti e aggiungi tabelle a forma libera e altre visualizzazioni per generare rapporti e analizzare i tuoi [!DNL Commerce] dati. L’immagine seguente mostra un esempio di tabella che è possibile creare in Analysis Workspace.
+1. Infine, per visualizzare i dati di [!DNL Commerce], devi passare ad Analysis Workspace nell&#39;Adobe [!DNL Analytics], creare un progetto, scegliere la suite di rapporti e aggiungere tabelle a forma libera e altre visualizzazioni per creare rapporti e analizzare i dati di [!DNL Commerce]. L’immagine seguente mostra un esempio di tabella che è possibile creare in Analysis Workspace.
 
    ![[!DNL Analytics] Schermata di alcuni dati di e-commerce](./assets/analytics-commerce/analytics-screenshot-commerce-items.png)
 

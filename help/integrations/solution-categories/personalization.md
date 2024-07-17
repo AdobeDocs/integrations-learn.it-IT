@@ -9,7 +9,7 @@ ht-degree: 1%
 
 ---
 
-# Personalizzazione su larga scala
+# Personalization su larga scala
 
 In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi, i clienti si aspettano esperienze personalizzate in base alle loro preferenze ed esigenze specifiche. Sfruttando le funzionalità di Adobe Experience Cloud possiamo raccogliere e analizzare numerosi dati sui clienti, fornendo informazioni preziose su comportamenti, interessi e preferenze. Questa profonda comprensione facilita la consegna di esperienze personalizzate attraverso vari punti di contatto, garantendo interazioni significative e coinvolgenti. Sfruttare la potenza di Adobe Experience Cloud sfrutta appieno il potenziale della personalizzazione, promuovendo connessioni più solide con i clienti, coltivando la fedeltà e guidando la crescita del business.
 
@@ -26,12 +26,14 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
     <tr>
       <td><strong>Creare documenti PDF personalizzati</strong></td>
       <td>
-        Genera documenti di comunicazione per la firma in base a selezioni utente/preferenze.
+        Genera documenti di comunicazione per la firma in base all'utente
+        selezioni/preferenze.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Presentare un NDA generato in modo dinamico in base ai dati di un invio AEM Forms per la firma
+            Presentare una NDA generata in modo dinamico sulla base dei dati provenienti da un AEM
+            Invio Forms per la firma
           </li>
         </ul>
       </td>
@@ -47,8 +49,8 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
     <tr>
       <td rowspan="2"><strong>Analisi dei dati e reporting</strong></td>
       <td>
-        Analizzare i dati comportamentali dalle esperienze digitali <br />Utilizza Adobe
-        [!DNL Analytics] dati comportamentali in Analysis Workspace nel Percorso di clienti
+        Analizza dati comportamentali da esperienze digitali <br />Usa Adobe
+        [!DNL Analytics] dati comportamentali in Analysis Workspace nel Percorso clienti
         [!DNL Analytics].
       </td>
       <td>
@@ -67,13 +69,15 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] e Percorso di clienti [!DNL Analytics]</a
+          >[!DNL Analytics] e Percorso clienti [!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Generazione di rapporti per le attività di personalizzazione<br />Analizzare i risultati dei test di ottimizzazione, incluso il test A/B, utilizzando Adobe [!DNL Target] e generazione di rapporti completi tramite Adobe [!DNL Analytics].
+        Generazione di rapporti per le attività di personalizzazione<br />Analisi dell'ottimizzazione
+        risultati di test, inclusi test A/B, utilizzando l'Adobe [!DNL Target] e
+        generazione di report completi tramite l'Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -92,7 +96,8 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
     <tr>
       <td><strong>Personalizzare le consegne e-mail</strong></td>
       <td>
-        Personalizzare le consegne e-mail con contenuti dinamici sfruttando le funzionalità di Adobe [!DNL Target].
+        Personalizzare le consegne e-mail con contenuti dinamici sfruttando
+        funzionalità dell'Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -110,21 +115,25 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
     </tr>
     <tr>
       <td rowspan="2">
-        <strong>Espandere i tipi di pubblico per le piattaforme di personalizzazione e annunci</strong>
+        <strong>Espandi tipi di pubblico per piattaforme di personalizzazione e annunci</strong>
       </td>
       <td>
-        Utilizza i segmenti Audienci Manager per creare tipi di pubblico in Real-Time CDP da utilizzare nelle tattiche di personalizzazione e remarketing.
+        Utilizza i segmenti Audience Manager per creare tipi di pubblico in Real-Time CDP per
+        da utilizzare nelle tattiche di personalizzazione e remarketing.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Eseguire il targeting e la personalizzazione anonimi del pubblico digitale sul sito web, sull’app mobile o sui canali pubblicitari supportati
+            Eseguire il targeting e la personalizzazione anonimi del pubblico digitale su
+            sul sito web, sull’app mobile o sui canali pubblicitari supportati
           </li>
           <li>
-            Ottimizza la pagina di destinazione e le esperienze di preautenticazione in base alle caratteristiche del dispositivo e del comportamento note
+            Ottimizza la pagina di destinazione e le esperienze di preautenticazione in base a
+            caratteristiche note del dispositivo e del comportamento
           </li>
           <li>
-            Sfrutta la rete dati di terze parti Audienci Manager per perfezionare ed espandere ulteriormente i tipi di pubblico per il targeting
+            Sfruttare la rete dati Audience Manager di terze parti per ulteriori
+            perfeziona ed espandi i tipi di pubblico per il targeting
           </li>
           <li>Condividere segmenti di Audience Manager in RTCDP</li>
         </ul>
@@ -134,21 +143,24 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager e dati dei clienti in tempo reale [!DNL Platform]</a
+          >Dati cliente in tempo reale e Audience Manager [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Utilizzare [!DNL Analytics] dati per la creazione di tipi di pubblico da utilizzare nelle tattiche di personalizzazione o remarketing.
+        Utilizza i dati di [!DNL Analytics] per creare tipi di pubblico da utilizzare nella personalizzazione o
+        tattiche di remarketing.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Esegui il targeting e la personalizzazione del pubblico digitale su dispositivi o canali pubblicitari supportati.
+            Eseguire il targeting e la personalizzazione del pubblico digitale su dispositivi o
+            canali pubblicitari supportati.
           </li>
           <li>
-            Ottimizza le pagine di destinazione note dei clienti ed esperienze anonime in base agli attributi del dispositivo e del comportamento.
+            Ottimizzare le pagine di destinazione note dei clienti ed esperienze anonime
+            in base agli attributi del dispositivo e del comportamento.
           </li>
           <li>Attiva i tipi di pubblico su canali noti, ad esempio e-mail e SMS.</li>
         </ul>
@@ -158,14 +170,15 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] e dati dei clienti in tempo reale [!DNL Platform]</a
+          >[!DNL Analytics] e dati cliente in tempo reale [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Personalizzare le esperienze web</strong></td>
       <td>
-        Personalizza le esperienze delle applicazioni a pagina singola (SPA) utilizzando in modo efficace AEM Headless in combinazione con Adobe [!DNL Target].
+        Personalizzare le esperienze delle applicazioni a pagina singola (SPA) in modo efficace
+        utilizzo di AEM Headless in combinazione con l'Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -186,7 +199,8 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
     </tr>
     <tr>
       <td>
-        Fornire esperienze web personalizzate utilizzando in modo efficace AEM Sites e Adobe [!DNL Target] per la personalizzazione.
+        Fornire esperienze web personalizzate utilizzando in modo efficace AEM Sites
+        e Adobe [!DNL Target] per la personalizzazione.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -201,14 +215,15 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM SITES e [!DNL Target]</a
+          >AEM Sites e [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Personalizzare le esperienze digitali</strong></td>
       <td>
-        Utilizzo di profili cliente in tempo reale e gestione centralizzata [!DNL Platform] segmenti per personalizzare la messaggistica su web, dispositivi mobili e altri canali digitali
+        Utilizza profili cliente in tempo reale e segmenti [!DNL Platform] gestiti centralmente
+        per personalizzare la messaggistica su web, dispositivi mobili e altri canali digitali
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -223,14 +238,15 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Dati dei clienti in tempo reale [!DNL Platform] e [!DNL Target]</a
+          >Dati cliente in tempo reale [!DNL Platform] e [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Migliora la generazione di lead</strong></td>
       <td>
-        Utilizzo di profili cliente in tempo reale e gestione centralizzata [!DNL Platform] segmenti per personalizzare la messaggistica su web, dispositivi mobili e altri canali digitali
+        Utilizza profili cliente in tempo reale e segmenti [!DNL Platform] gestiti centralmente
+        per personalizzare la messaggistica su web, dispositivi mobili e altri canali digitali
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -242,7 +258,7 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Dati dei clienti in tempo reale [!DNL Platform] e [!DNL Target]</a
+          >Dati cliente in tempo reale [!DNL Platform] e [!DNL Target]</a
         >
       </td>
     </tr>

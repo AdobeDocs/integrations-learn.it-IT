@@ -4,8 +4,8 @@ description: Scopri le configurazioni di integrazione comuni per applicazioni Ex
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 11%
 
 ---
 
@@ -49,23 +49,23 @@ Tieni presente che esistono diversi modi per configurare le applicazioni Adobe, 
     </td>
    <td>
       <a  href="./customer-journeys.md"><img alt="Percorsi cliente" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
-      <div><strong><a href="./customer-journeys.md">Percorsi di clienti</a></strong></div>
+      <div><strong><a href="./customer-journeys.md">percorsi di clienti</a></strong></div>
       <p>
         Orchestrazione e consegna omni-channel
       </p> 
     </td>
    <td>
       <a  href="./data-insights.md"><img alt="Approfondimenti sui dati e attivazione" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
-      <div><strong><a href="./data-insights.md"> Informazioni sui dati e attivazione</a></strong></div>
+      <div><strong><a href="./data-insights.md"> informazioni sui dati e attivazione</a></strong></div>
       <p>
-        [!DNL Analytics] e gestione dell'audience
+        [!DNL Analytics] e Gestione dell'audience
       </p>
    </td>  
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Personalizzazione su larga scala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">Personalizzazione in scala</a></strong></div>
+      <a  href="./personalization.md"><img alt="Personalization su larga scala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalization come scala</a></strong></div>
       <p>
         Come rendere personale ogni connessione
       </p>

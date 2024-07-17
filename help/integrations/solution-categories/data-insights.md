@@ -30,7 +30,7 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
    <td rowspan="8"><b>Analisi dei dati e reporting</b></td>
 
 <!--  ROW 2a  -->
-<td>Analizzare i risultati dei test di ottimizzazione, incluso il test A/B, utilizzando Adobe [!DNL Target] e generazione di rapporti completi tramite Adobe [!DNL Analytics].</td>
+<td>Analizzare i risultati dei test di ottimizzazione, incluso il test A/B, utilizzando l'Adobe [!DNL Target] e generando report completi tramite l'Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Mostra i risultati del test A/B nei rapporti di analisi avanzati.</li>
        </ul></td>
@@ -39,10 +39,10 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
 
 <!--  ROW 2b  -->
 <tr>
-   <td>Invia dati del segmento di Audience Manager a [!DNL Analytics] per analisi, individuazione e ottimizzazione più approfondite del pubblico.</td>
+   <td>Invia i dati del segmento di Audience Manager a [!DNL Analytics] per analisi più approfondite del pubblico, individuazione e ottimizzazione.</td>
     <td><ul style="margin-top: 0;">
-        <li>Invia dati di segmenti di terze parti a [!DNL Analytics] per un’analisi più approfondita degli utenti.</li>
-        <li>Invia dati CRM a [!DNL Analytics] da includere nell’analisi degli utenti.</li>
+        <li>Invia dati di segmenti di terze parti a [!DNL Analytics] per analisi più approfondite da parte dell'utente.</li>
+        <li>Invia dati CRM a [!DNL Analytics] per l'inclusione nell'analisi utente.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">AUDIENCE MANAGER e [!DNL Analytics]</a></td>
  </tr>
@@ -51,14 +51,14 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
 <tr>
    <td>Espandi i tipi di pubblico per le piattaforme di personalizzazione e annunci.</td>
     <td><ul style="margin-top: 0;">
-        <li>Utilizza l’inoltro lato server per inviare [!DNL Analytics] dati di Audience Manager per la creazione di segmenti.</li>
+        <li>Utilizza l'inoltro lato server per inviare dati [!DNL Analytics] ad Audience Manager per la creazione di segmenti.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">AUDIENCE MANAGER e [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2d  -->
 <tr>
-   <td>Monitorare, analizzare e segnalare il coinvolgimento degli utenti con i moduli digitali tramite AEM Forms e [!DNL Analytics]. </td>
+   <td>Monitora, analizza e segnala il coinvolgimento degli utenti con i moduli digitali tramite AEM Forms e [!DNL Analytics]. </td>
    <td><ul style="margin-top: 0;">
         <li>Generare rapporti sulle dimensioni e le metriche di invio dei moduli, inclusi i campi modulo completati e i campi modulo con errori.</li>
        </ul></td>
@@ -67,10 +67,10 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
 
 <!--  ROW 2e  -->
 <tr>
-   <td>Monitora, analizza e segnala le attività degli utenti sui siti web di AEM Sites utilizzando Adobe [!DNL Analytics] per reporting e approfondimenti completi.</td>
+   <td>Monitora, analizza e segnala le attività degli utenti sui siti web di AEM Sites utilizzando l'Adobe [!DNL Analytics] per ottenere informazioni e report completi.</td>
    <td><ul style="margin-top: 0;">
         <li>Monitora, analizza e genera rapporti sulle metriche chiave per le pagine del sito.</li>
-        <li>Utilizzare [!DNL Analytics] report per prendere decisioni basate sui dati per migliorare l’esperienza utente e la strategia dei contenuti.</li>
+        <li>Utilizza i report [!DNL Analytics] per prendere decisioni basate sui dati per l'esperienza utente e la strategia dei contenuti.</li>
         <li>Analizzare i percorsi di conversione superiore e inferiore.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/experience-manager/experience-manager-analytics.md" target="_blank" rel="noopener noreferrer">AEM SITES e [!DNL Analytics]</a></td>
@@ -78,7 +78,7 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
 
 <!--  ROW 2f  -->
 <tr>
-   <td>Ottieni informazioni complete su Adobe [!DNL Campaign] campagne di marketing via e-mail utilizzando metriche pre-clic e tassi di conversione.</td>
+   <td>Ottieni informazioni complete sulle campagne di marketing via e-mail Adobe [!DNL Campaign] utilizzando metriche pre-clic e tassi di conversione.</td>
    <td><ul style="margin-top: 0;">
         <li>Monitora, analizza e genera rapporti sulle metriche di conversione post-clic per le campagne e-mail.</li>
         <li>Espandere le campagne ad altre dimensioni raccolte in [!DNL Analytics].</li>
@@ -89,17 +89,17 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
 
 <!--  ROW 2g  -->
 <tr>
-   <td>Ottieni informazioni complete su Adobe [!DNL Commerce] memorizza le prestazioni utilizzando le metriche e le dimensioni chiave selezionate.</td>
+   <td>Ottieni informazioni complete sulle prestazioni dell'archivio Adobe [!DNL Commerce] utilizzando le metriche e le dimensioni chiave selezionate.</td>
    <td><ul style="margin-top: 0;">
         <li>Approfondimenti sui dati e reporting sulle attività di e-commerce.</li>
-        <li>Ottieni informazioni complete su Adobe [!DNL Commerce] memorizza le prestazioni utilizzando le metriche e le dimensioni chiave selezionate.</li>
+        <li>Ottieni informazioni complete sulle prestazioni dell'archivio Adobe [!DNL Commerce] utilizzando le metriche e le dimensioni chiave selezionate.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] e [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2h  -->
 <tr>
-   <td>Utilizza Adobe [!DNL Analytics] dati comportamentali in Analysis Workspace nel Percorso di clienti [!DNL Analytics].</td>
+   <td>Utilizza i dati comportamentali Adobe [!DNL Analytics] in Analysis Workspace nel Percorso di clienti [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Analizza il coinvolgimento e la conversione del canale.</li>
         <li>Comprendere le categorie e i prodotti principali.</li>
@@ -119,7 +119,7 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
   <td>Utilizza origini di dati multicanale per creare tipi di pubblico da utilizzare per le tattiche di personalizzazione e remarketing.</td>
   <td><ul style="margin-top: 0;"><li>Inviare segmenti di pubblico a Real-Time CDP per la consegna alle destinazioni</li>
      </ul></td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-cja.md" target="_blank" rel="noopener noreferrer">Percorso di clienti [!DNL Analytics] e dati dei clienti in tempo reale [!DNL Platform]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-cja.md" target="_blank" rel="noopener noreferrer">Percorso clienti [!DNL Analytics] e dati cliente in tempo reale [!DNL Platform]</a></td>
  </tr>
 
 <!--  ROW 3c  -->
@@ -133,17 +133,17 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
 
 <!--  ROW 3d  -->
 <tr>
-  <td>Utilizza i segmenti Audienci Manager per creare tipi di pubblico in Real-Time CDP da utilizzare nella personalizzazione e nel remarketing.</td>
+  <td>Utilizza i segmenti Audience Manager per creare tipi di pubblico in Real-Time CDP da utilizzare nella personalizzazione e nel remarketing.</td>
   <td><ul style="margin-top: 0;">
         <li>Esegui il targeting e la personalizzazione anonimi del pubblico digitale sul sito web, sull’app mobile o sui canali pubblicitari supportati.</li>
         <li>Ottimizza la pagina di destinazione e le esperienze di preautenticazione in base alle caratteristiche del dispositivo e del comportamento note.</li>
-        <li>Applica la rete dati di terze parti Audienci Manager per perfezionare ed espandere ulteriormente i tipi di pubblico per il targeting.</li>
+        <li>Applica la rete dati di terze parti Audience Manager per perfezionare ed espandere ulteriormente i tipi di pubblico per il targeting.</li>
       </ul></td>
   <td><a href="../integrations-between-applications/aam/aam-rtcdp.md" target="_blank" rel="noopener noreferrer">Audience Manager e dati dei clienti in tempo reale [!DNL Platform]</a></td>
  </tr>
 
 <!--  ROW 3e  -->
-<td>Utilizzare [!DNL Analytics] dati per la creazione di tipi di pubblico da utilizzare nelle tattiche di personalizzazione o remarketing.</td>
+<td>Utilizza i dati di [!DNL Analytics] per creare tipi di pubblico da utilizzare nelle tattiche di personalizzazione o remarketing.</td>
    <td><ul style="margin-top: 0;"><li>Esegui il targeting e la personalizzazione del pubblico digitale su dispositivi o canali pubblicitari supportati.</li>
            <li>Ottimizza le pagine di destinazione note dei clienti ed esperienze anonime in base agli attributi del dispositivo e del comportamento.</li>
            <li>Attiva i tipi di pubblico su canali noti, ad esempio e-mail e SMS.</li>
@@ -154,7 +154,7 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
 <!--  ROW 4  -->
 <tr>
    <td><b>Misurare l’utilizzo e le prestazioni delle immagini di marketing</b></td>
-   <td>Tracciare e analizzare l’efficacia delle immagini di marketing integrando AEM Assets e Adobe [!DNL Analytics].</td>
+   <td>Monitora e analizza l'efficacia delle immagini di marketing integrando AEM Assets e Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;"><li>Monitora e analizza le prestazioni delle risorse.</li>
            <li>Analizzare il coinvolgimento degli utenti.</li>
            <li>Ottimizzare la strategia dei contenuti.</li>

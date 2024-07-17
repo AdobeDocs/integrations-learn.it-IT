@@ -26,7 +26,7 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
   <tbody>
 <tr>
   <td><strong>Creare materiale promozionale di marketing utilizzando le risorse del marchio</strong><br></td>
-  <td>Creare e supervisionare contenuti e modelli di e-mail marketing utilizzando AEM e Adobe [!DNL Campaign].</td>
+  <td>Crea e supervisiona contenuti e modelli di e-mail marketing utilizzando AEM e l'Adobe [!DNL Campaign].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Inviare e-mail di marketing create con AEM</li>
@@ -37,14 +37,14 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
 
 <tr>
   <td><strong>Acquisire i dati dei clienti</strong><br></td>
- <td>Incremento nativo [!DNL Campaign] funzionalità per acquisire i dati dei clienti per il targeting e la personalizzazione delle campagne di marketing.</td>
+ <td>Potenziamento delle funzionalità native di [!DNL Campaign] per acquisire i dati dei clienti per il targeting e la personalizzazione delle campagne di marketing.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Crea profili e raccogli informazioni aggiuntive. </li>
       <li>Abbonamenti</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM FORMS e [!DNL Campaign] Standard</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms e [!DNL Campaign] Standard</a></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
 
 <tr>
   <td><strong>Personalizzare le consegne e-mail</strong><br></td>
-  <td>Personalizzare le consegne e-mail con contenuti dinamici sfruttando le funzionalità di Adobe [!DNL Target].</td>
+  <td>Personalizzare le consegne di e-mail con contenuto dinamico sfruttando le funzionalità dell'Adobe [!DNL Target].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Aggiungere offerte personalizzate alle e-mail dei clienti</li>
@@ -94,7 +94,7 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
 
 <tr>
   <td><strong>Personalizzare le esperienze digitali</strong><br></td>
-  <td>Utilizzo di profili cliente in tempo reale e gestione centralizzata [!DNL Platform] segmenti per personalizzare la messaggistica su web, dispositivi mobili e altri canali digitali.</td>
+  <td>Utilizza Real-time Customer Profiles e segmenti [!DNL Platform] gestiti centralmente per personalizzare la messaggistica su canali web, mobili e altri canali digitali.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personalizzazione dei contenuti per i visitatori noti</li>
@@ -103,18 +103,18 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
       <li>Personalizzazione delle offerte in tempo reale</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Dati dei clienti in tempo reale [!DNL Platform] e [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Dati cliente in tempo reale [!DNL Platform] e [!DNL Target]</a></td>
 </tr>
 
 <tr>
   <td><strong>Migliora la generazione di lead</strong><br></td>
-  <td>Utilizzo di profili cliente in tempo reale e gestione centralizzata [!DNL Platform] segmenti per personalizzare la messaggistica su web, dispositivi mobili e altri canali digitali</td>
+  <td>Utilizza i profili cliente in tempo reale e i segmenti [!DNL Platform] gestiti a livello centrale per personalizzare la messaggistica su canali web, mobili e altri canali digitali</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personalizzazione dei contenuti per i visitatori noti</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Dati dei clienti in tempo reale [!DNL Platform] e [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Dati cliente in tempo reale [!DNL Platform] e [!DNL Target]</a></td>
 </tr>
 </tbody>
 </table>

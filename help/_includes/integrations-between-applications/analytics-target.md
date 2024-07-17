@@ -1,24 +1,24 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 
 
-# [!DNL Analytics] e [!DNL Target] integrazione
+# Integrazione di [!DNL Analytics] e [!DNL Target]
 
 {{analytics-description}}
 
 {{target-description}}
 
-I vantaggi chiave dell’integrazione di Adobe [!DNL Analytics] e ADOBE [!DNL Target] (A4T) sono:
+I vantaggi principali dell&#39;integrazione di Adobe [!DNL Analytics] e Adobe [!DNL Target] (A4T) sono i seguenti:
 
-+ **Personalizzazione basata su dati**: Utilizzare [!DNL Analytics] per attività mirate in Adobe [!DNL Target], migliorando le strategie di personalizzazione.
-+ **Reporting unificato**: l’integrazione di A4T combina [!DNL Target] e [!DNL Analytics] report per un&#39;analisi completa.
-+ **Targeting ottimizzato**: basa le decisioni su [!DNL Analytics] dati per una segmentazione precisa del pubblico e l’ottimizzazione dei contenuti.
-+ **Pubblico condiviso**: Utilizzare [!DNL Analytics] creare segmenti dettagliati e condividerli con [!DNL Target] da utilizzare come pubblico per i test.
++ **Personalizzazione basata sui dati**: utilizza [!DNL Analytics] per attività mirate nell&#39;Adobe [!DNL Target], migliorando le strategie di personalizzazione.
++ **Reporting unificato**: l&#39;integrazione A4T combina [!DNL Target] e [!DNL Analytics] report per l&#39;analisi completa.
++ **Destinazione ottimizzata**: basa le decisioni sui dati di [!DNL Analytics] per una segmentazione precisa del pubblico e l&#39;ottimizzazione dei contenuti.
++ **Tipi di pubblico condivisi**: utilizza [!DNL Analytics] per creare segmenti dettagliati e condividerli con [!DNL Target] per utilizzarli come tipi di pubblico da testare.
 
 <table>
     <thead>
@@ -39,7 +39,7 @@ I vantaggi chiave dell’integrazione di Adobe [!DNL Analytics] e ADOBE [!DNL Ta
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Desideri utilizzare Adobe [!DNL Analytics] funzioni avanzate per la generazione di rapporti da mostrare e analizzare [!DNL Target] risultati dell’attività.</li>
+                    <li>Utilizzare le funzionalità avanzate di reporting di Adobe [!DNL Analytics] per visualizzare e analizzare [!DNL Target] risultati attività.</li>
                 </ul>
             </td>
             <td>
@@ -57,7 +57,7 @@ I vantaggi chiave dell’integrazione di Adobe [!DNL Analytics] e ADOBE [!DNL Ta
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Desideri condividere [!DNL Analytics] segmenti in [!DNL Target] pubblico.</li>
+                    <li>Desideri condividere [!DNL Analytics] segmenti con [!DNL Target] tipi di pubblico.</li>
                 </ul>
             </td>
             <td>

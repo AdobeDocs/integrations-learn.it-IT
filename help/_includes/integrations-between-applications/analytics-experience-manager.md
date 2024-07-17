@@ -1,25 +1,25 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 8%
+source-wordcount: '242'
+ht-degree: 2%
 
 ---
 
 
-# [!DNL Analytics] e l&#39;integrazione degli Experienci Manager
+# Integrazione di [!DNL Analytics] e Experience Manager
 
 {{analytics-description}}
 
 {{experience-manager-description}}
 
-Integrazione dell’Adobe [!DNL Analytics] e Adobe Experience Manager offre diversi vantaggi, tra cui:
+L&#39;integrazione di Adobe [!DNL Analytics] e Adobe Experience Manager offre diversi vantaggi, tra cui:
 
-+ **Segmentazione precisa**: Adobe di unione [!DNL Analytics] &amp; Audience Manager per segmenti di pubblico personalizzati nelle campagne.
-+ **Cliente completo** Profili: integra le origini dati per una comprensione unificata delle interazioni e dei comportamenti.
-+ **Targeting ottimizzato degli annunci**: migliora l’efficacia degli annunci con il targeting basato sui dati da Adobe [!DNL Analytics] &amp; Audience Manager.
-+ **Decisioni informate**: informazioni dettagliate dall’Adobe unito [!DNL Analytics] e dati di Audience Manager per scelte migliori.
-+ **Esperienze personalizzate**: contenuti e offerte personalizzati per diversi punti di contatto, sfruttando le funzionalità di entrambe le piattaforme.
++ **Segmentazione precisa**: unisci Adobe [!DNL Analytics] e Audience Manager per segmenti di pubblico personalizzati nelle campagne.
++ **Profili cliente completi**: integra le origini dati per una comprensione unificata delle interazioni e dei comportamenti.
++ **Targeting degli annunci ottimizzato**: migliora l&#39;efficacia degli annunci con il targeting basato sui dati dall&#39;Adobe [!DNL Analytics] e dall&#39;Audience Manager.
++ **Decisioni informate**: approfondimenti dettagliati dall&#39;Adobe [!DNL Analytics] unito e dati di Audience Manager per scelte migliori.
++ **Esperienze personalizzate**: contenuti e offerte personalizzati in diversi punti di contatto, sfruttando le funzionalità di entrambe le piattaforme.
 
 ## Integrazioni comuni
 
@@ -35,10 +35,10 @@ Integrazione dell’Adobe [!DNL Analytics] e Adobe Experience Manager offre dive
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Analytics] con AEM Sites</a></td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Esperienza [!DNL Platform] Estensione tag SDK per web o alloy.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Estensione tag Experience [!DNL Platform] Web SDK o alloy.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Quando desideri creare rapporti sui dati di analisi web dell’AEM in Adobe [!DNL Analytics]e posizionarsi in modo da integrarsi in futuro con altre applicazioni Experience Cloud.</li>
+                    <li>Quando desideri creare rapporti sui dati di analisi web dell'AEM nell'Adobe [!DNL Analytics] e posizionarti per integrarti in futuro con altre applicazioni Experience Cloud.</li>
                 </ul>
             </td>
             <td>
@@ -50,11 +50,11 @@ Integrazione dell’Adobe [!DNL Analytics] e Adobe Experience Manager offre dive
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html?lang=it" target="_blank" rel="noreferrer">Adobe [!DNL Analytics] estensione tag o AppMeasurement.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html?lang=it" target="_blank" rel="noreferrer">Adobe [!DNL Analytics] tag estensione o AppMeasurement.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Quando desideri creare rapporti sui dati di analisi web dell’AEM in Adobe [!DNL Analytics], e non prevedono di utilizzare i dati in altre applicazioni Experience Cloud</li>
-                    <li>Quando utilizzi i componenti core AEM per gli elementi tracciabili dei siti web.</li>
+                    <li>Quando si desidera creare rapporti sui dati di analisi Web AEM nell'Adobe [!DNL Analytics] e non si prevede di utilizzare i dati in altre applicazioni Experience Cloud</li>
+                    <li>Quando utilizzi i Componenti core dell’AEM per gli elementi del sito web tracciabili.</li>
                     <li>Quando desideri una configurazione e un’implementazione minime.</li>
                 </ul>
             </td>
@@ -68,10 +68,10 @@ Integrazione dell’Adobe [!DNL Analytics] e Adobe Experience Manager offre dive
         </tr>
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html?lang=it" target="_blank" rel="noreferrer">[!DNL Analytics] e AEM Forms come Cloud Service</a></td>
-            <td>Esperienza [!DNL Platform] Estensione tag Web SDK</td>
+            <td>Estensione tag Experience [!DNL Platform] Web SDK</td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Per segnalare i dati di analisi dei moduli digitali, consulta l’Adobe [!DNL Analytics]e posizionarsi in modo da integrarsi in futuro con altre applicazioni Experience Cloud.</li>
+                <li>Se si desidera creare un report sui dati di analisi dei moduli digitali nell'Adobe [!DNL Analytics] e posizionarsi per integrarsi in futuro con altre applicazioni Experience Cloud.</li>
               </ul>
             </td>
             <td>

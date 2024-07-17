@@ -1,27 +1,27 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 5%
+source-wordcount: '227'
+ht-degree: 1%
 
 ---
 
 
-# Percorso di clienti [!DNL Analytics] e dati dei clienti in tempo reale [!DNL Platform] Integrazione con (Real-Time CDP)
+# Integrazione Percorso clienti [!DNL Analytics] e Real-Time Customer Data [!DNL Platform] (Real-Time CDP)
 
 {{customer-journey-analytics-description}}
 
 {{real-time-cdp-description}}
 
-Vantaggi chiave dell’integrazione di Adobe Customer Percorsi [!DNL Analytics] e Adobe Real-Time CDP include\:
+I vantaggi principali dell&#39;integrazione di Adobe Customer Percorsi [!DNL Analytics] e Adobe Real-Time CDP includono\:
 
-+ **Visualizzazione del cliente a 360 gradi**: combina i dati per una visualizzazione unificata del percorso del cliente per comprendere le interazioni e le preferenze.
-+ **Personalizzazione in tempo reale**: offre esperienze rilevanti all’istante con Adobe Real-Time CDP.
-+ **Approfondimenti più approfonditi sui clienti**: analizza il comportamento e i percorsi, perfezionando le strategie attraverso decisioni basate sui dati.
-+ **Semplicità di attivazione dei dati**: semplifica l’attivazione dei dati, consentendo esperienze personalizzate su più canali.
-+ **Attribuzione di marketing migliorata**: attribuisce con precisione l’impatto dei punti di contatto, migliorando la misurazione e l’ottimizzazione del ROI.
++ **Visualizzazione cliente a 360 gradi**: combina i dati per una visualizzazione unificata del percorso di clienti, comprendendo le interazioni e le preferenze.
++ **Personalizzazione in tempo reale**: fornisce immediatamente esperienze rilevanti con Adobe Real-Time CDP.
++ **Approfondimenti sul cliente**: analizza il comportamento e i percorsi, perfezionando le strategie attraverso decisioni basate sui dati.
++ **Semplice attivazione dei dati**: semplifica l&#39;attivazione dei dati, abilitando esperienze personalizzate su più canali.
++ **Attribuzione marketing migliorata**: attribuisce con precisione l&#39;impatto dei punti di contatto, migliorando la misurazione e l&#39;ottimizzazione del ROI.
 
-Nel complesso, l&#39;integrazione di Adobe Customer Percorso [!DNL Analytics] e Adobe Real-Time CDP consente alle aziende di fornire esperienze cliente eccezionali, stimolare il coinvolgimento dei clienti e prendere decisioni di marketing informate in base a informazioni complete e in tempo reale sui clienti.
+Nel complesso, l&#39;integrazione di Adobe Customer Percorsi [!DNL Analytics] e Adobe Real-Time CDP consente alle aziende di fornire esperienze cliente eccezionali, stimolare il coinvolgimento dei clienti e prendere decisioni di marketing informate sulla base di informazioni complete e in tempo reale sui clienti.
 
 ## Integrazioni comuni
 
@@ -36,12 +36,12 @@ Nel complesso, l&#39;integrazione di Adobe Customer Percorso [!DNL Analytics] e 
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html?lang=it" target="_blank" rel="noreferrer">Percorso di clienti [!DNL Analytics] e REAL-TIME CDP</a></td>
-            <td>Adobe Experience [!DNL Platform]</td>
+            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html?lang=it" target="_blank" rel="noreferrer">Percorso di clienti [!DNL Analytics] e Real-Time CDP</a></td>
+            <td>Esperienza Adobe [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Quando desideri utilizzare un Percorso di clienti [!DNL Analytics] (CJA) pubblico per un percorso in Adobe Journey Optimizer.</li>
-                    <li>Quando desideri esportare il pubblico di CJA a una terza parte tramite un’esperienza [!DNL Platform] destinazione.</li>
+                    <li>Quando desideri utilizzare un pubblico del Percorso di clienti [!DNL Analytics] (CJA) per un percorso in Adobe Journey Optimizer.</li>
+                    <li>Quando desideri esportare il pubblico di CJA in una terza parte tramite una destinazione Experience [!DNL Platform].</li>
                     <li>Quando desideri arricchire il profilo cliente in tempo reale con attributi utili derivati dai dati basati su eventi in CJA.</li>
                     <li>Latenza minima dopo la pubblicazione del pubblico in Real-Time CDP.</li>
                     <li>Quando desideri pubblicare tipi di pubblico una tantum o ricorrenti.</li>

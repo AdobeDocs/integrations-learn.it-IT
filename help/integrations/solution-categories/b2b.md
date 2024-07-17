@@ -4,7 +4,7 @@ description: Coordinare la gestione dei lead, l’ABM e l’attribuzione su larg
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Coordinare la gestione dei lead, l’ABM e l’attribuzione su larga scala tra i
 
 <tr>
   <td rowspan="1"><strong>Espandere i tipi di pubblico per le piattaforme di personalizzazione e annunci</strong><br/></td> 
-  <td>Utilizzare [!DNL Analytics] dati per la creazione di tipi di pubblico da utilizzare nelle tattiche di personalizzazione o remarketing.</td>
+  <td>Utilizza i dati di [!DNL Analytics] per creare tipi di pubblico da utilizzare nelle tattiche di personalizzazione o remarketing.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Esegui il targeting e la personalizzazione del pubblico digitale su dispositivi o canali pubblicitari supportati.</li>
@@ -54,7 +54,7 @@ Coordinare la gestione dei lead, l’ABM e l’attribuzione su larga scala tra i
 
 <tr>
   <td><strong>Personalizzare le esperienze digitali</strong><br/></td>
-  <td> Utilizzo di profili cliente in tempo reale e gestione centralizzata [!DNL Platform] segmenti per personalizzare la messaggistica su web, dispositivi mobili e altri canali digitali.
+  <td> Utilizza Real-time Customer Profiles e segmenti [!DNL Platform] gestiti centralmente per personalizzare la messaggistica su canali web, mobili e altri canali digitali.
   </td>
   <td>
     <ul style="margin-top: 0;">
@@ -64,20 +64,20 @@ Coordinare la gestione dei lead, l’ABM e l’attribuzione su larga scala tra i
       <li>Personalizzazione delle offerte in tempo reale</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Dati dei clienti in tempo reale [!DNL Platform] e [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Dati cliente in tempo reale [!DNL Platform] e [!DNL Target]</a></td>
 </tr>
 
 <tr>
   <td><strong>Migliora la generazione di lead</strong><br/></td>
   <td>
-    Utilizzo di profili cliente in tempo reale e gestione centralizzata [!DNL Platform] segmenti per personalizzare la messaggistica su web, dispositivi mobili e altri canali digitali
+    Utilizza i profili cliente in tempo reale e i segmenti [!DNL Platform] gestiti a livello centrale per personalizzare la messaggistica su canali web, mobili e altri canali digitali
   </td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personalizzazione dei contenuti per i visitatori noti</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Dati dei clienti in tempo reale [!DNL Platform] e [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Dati cliente in tempo reale [!DNL Platform] e [!DNL Target]</a></td>
 </tr>
 </tbody>
 </table>

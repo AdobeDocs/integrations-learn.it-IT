@@ -18,6 +18,6 @@ ht-degree: 5%
 ---
 
 
-# Integrare l’esperienza [!DNL Platform] con Experience Manager
+# Integrare l&#39;esperienza [!DNL Platform] con Experience Manager
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-platform.md}}

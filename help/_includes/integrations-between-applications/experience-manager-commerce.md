@@ -1,24 +1,24 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 2%
 
 ---
 
 
-# EXPERIENCE MANAGER e ADOBE [!DNL Commerce]
+# Experience Manager e Adobe [!DNL Commerce]
 
 {{experience-manager-description}}
 
 {{commerce-description}}
 
-Integrazione di AEM e Adobe [!DNL Commerce] utilizzo [!DNL Commerce] Integration Framework (CIF) offre diversi vantaggi, tra cui:
+L&#39;integrazione dell&#39;AEM e dell&#39;Adobe [!DNL Commerce] tramite il framework di integrazione di [!DNL Commerce] (CIF) offre diversi vantaggi, tra cui:
 
-+ **Accelerare l&#39;innovazione** con componenti commerce preconfigurati, riducendo i requisiti di codice personalizzato.
-+ **Conversione unità** attraverso esperienze personalizzate utilizzando il livello dati lato client di Adobe.
-+ **Creare rapidamente esperienze di e-commerce ricche e scalabili** con gli strumenti CIF dell’AEM.
-+ **Semplificazione dell&#39;authoring** e gestire in modo efficiente i contenuti dei prodotti attraverso i punti di contatto omni-channel.
++ **Accelera l&#39;innovazione** con componenti commerce predefiniti, riducendo i requisiti di codice personalizzato.
++ **Promuovi la conversione** tramite esperienze personalizzate utilizzando il livello dati lato client di Adobe.
++ **Creare rapidamente esperienze di e-commerce ricche e scalabili** con gli strumenti CIF dell&#39;AEM.
++ **Semplifica l&#39;authoring** e gestisci i contenuti dei prodotti in modo efficiente attraverso i punti di contatto omni-channel.
 
 ## Integrazioni comuni
 
@@ -34,7 +34,7 @@ Integrazione di AEM e Adobe [!DNL Commerce] utilizzo [!DNL Commerce] Integration
     <tbody>
         <tr>
             <td rowspan="3">AEM Sites come Cloud Service e [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">Crea una singola vetrina utilizzando [!DNL Commerce] Integration Framework (CIF)</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">Creare una singola vetrina utilizzando [!DNL Commerce] Integration Framework (CIF)</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Quando vuoi una sola vetrina in AEM.</li>

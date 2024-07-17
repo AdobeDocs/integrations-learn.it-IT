@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 5%
+source-wordcount: '206'
+ht-degree: 1%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 5%
 
 AEM e Workfront semplificano la produzione dei contenuti, consentendo l&#39;importazione diretta dei contenuti gestiti da Workfront all&#39;AEM per un&#39;organizzazione e un accesso efficienti, garantendo una distribuzione tempestiva e di alta qualità delle risorse digitali. I vantaggi principali includono:
 
-+ **Produzione dei contenuti semplificata**: l’integrazione tra AEM e Adobe Workfront ottimizza il processo di creazione dei contenuti end-to-end.
-+ **Collaborazione migliorata**: i team possono collaborare perfettamente ai progetti di contenuti, migliorando la comunicazione e l’efficienza.
-+ **Gestione delle risorse migliorata**: le funzionalità di tracciamento dei progetti di Workfront consentono una migliore allocazione e un migliore utilizzo delle risorse.
-+ **Approvazioni e revisioni efficienti**: l’integrazione tra AEM e Workfront semplifica i flussi di lavoro di revisione e approvazione dei contenuti.
++ **Produzione semplificata dei contenuti**: l&#39;integrazione tra AEM e Adobe Workfront ottimizza il processo di creazione dei contenuti end-to-end.
++ **Collaborazione migliorata**: i team possono collaborare senza problemi ai progetti di contenuti, favorendo una migliore comunicazione ed efficienza.
++ **Gestione delle risorse migliorata**: le funzionalità di monitoraggio dei progetti di Workfront consentono una migliore allocazione e un migliore utilizzo delle risorse.
++ **Approvazioni e revisioni efficienti**: l&#39;integrazione di AEM e Workfront semplifica i flussi di lavoro di revisione e approvazione dei contenuti.
 + **Time-to-market più rapido**: la soluzione combinata accelera la distribuzione dei contenuti, riducendo il time-to-market per campagne e risorse.
 
 ## Integrazioni comuni
@@ -34,7 +34,7 @@ AEM e Workfront semplificano la produzione dei contenuti, consentendo l&#39;impo
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it" target="_blank" rel="noreferrer">Workfront e AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront e AEM Assets Essentials</a></td>
             <td>Connettore nativo</td>
             <td>
               <ul style="margin-top: 0;">

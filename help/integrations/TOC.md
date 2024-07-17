@@ -5,15 +5,15 @@ user-guide-description: Integrazioni Scopri.
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 32%
+source-wordcount: '91'
+ht-degree: 17%
 
 ---
 
 
-# [!DNL Experience Cloud] tutorial sull’integrazione {#experience-cloud}
+# Esercitazioni sull&#39;integrazione di [!DNL Experience Cloud] {#experience-cloud}
 
-+ [[!DNL Experience Cloud] Integrazioni](./overview.md)
++ [[!DNL Experience Cloud] integrazioni](./overview.md)
 + Categorie di soluzioni{#solution-categories}
    + [Panoramica](./solution-categories/overview.md)
    + [Marketing B2B](./solution-categories/b2b.md)
@@ -22,7 +22,7 @@ ht-degree: 32%
    + [Catena di fornitura dei contenuti](./solution-categories/content-supply-chain.md)
    + [Percorsi di clienti](./solution-categories/customer-journeys.md)
    + [Informazioni sui dati e attivazione](./solution-categories/data-insights.md)
-   + [Personalizzazione su larga scala](./solution-categories/personalization.md)
+   + [Personalization su larga scala](./solution-categories/personalization.md)
 + Integrazioni di prodotti{#integrations-between-applications}
    + [Panoramica](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
@@ -80,24 +80,24 @@ ht-degree: 32%
    + Workfront{#experience-manager}
       + [[!DNL Creative Cloud]](./integrations-between-applications/workfront/workfront-creative-cloud.md)
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
-+ Tutorial{#tutorials}
++ Esercitazione{#tutorials}
    + [!DNL Analytics] e [!DNL Commerce]{#analytics-commerce}
       + [[!DNL Analytics] e [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics] e CJA{#analytics-cja}
       + [[!DNL Analytics] e CJA](./tutorials/analytics-cja/experience-platform-edge.md)
       + [[!DNL Analytics] e CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
-   + [!DNL Analytics] e REAL-TIME CDP{#analytics-real-time-cdp}
-      + [[!DNL Analytics] e REAL-TIME CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
-      + [[!DNL Analytics] e REAL-TIME CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
+   + [!DNL Analytics] e Real-Time CDP{#analytics-real-time-cdp}
+      + [[!DNL Analytics] e Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
+      + [[!DNL Analytics] e Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] e [!DNL Target]{#analytics-target}
       + [[!DNL Analytics] e [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] e [!DNL Analytics]{#campaign-analytics}
-      + [Integrare [!DNL Campaign] Standard con [!DNL Analytics] esercitazione sull’utilizzo di Triggers](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
-   + [!DNL Campaign] e EXPERIENCE MANAGER {#campaign-experience-manager}
+      + [Esercitazione Integrare [!DNL Campaign] Standard con [!DNL Analytics] tramite Triggers](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+   + [!DNL Campaign] e Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8 e Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
-   + [!DNL Campaign] e REAL-TIME CDP{#campaign-real-time-cdp}
+   + [!DNL Campaign] e Real-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8 e Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
    + Real-Team CDP{#rtcdp-target}
-      + [REAL-TIME CDP e [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
-      + [REAL-TIME CDP e [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
-      + [REAL-TIME CDP e [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+      + [Real-Time CDP e  [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
+      + [Real-Time CDP e  [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
+      + [Real-Time CDP e  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)

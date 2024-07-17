@@ -1,5 +1,5 @@
 ---
-title: Integrare AEM Forms con Marketi Engage
+title: Integrare AEM Forms con Marketo Engage
 description: Integra Adobe Experience Manager Forms (AEM Forms) con la generazione di lead semplificata del Marketo Engage.
 solution: Experience Manager, Experience Manager Forms, Marketo Engage
 feature: Integrations
@@ -19,6 +19,6 @@ ht-degree: 3%
 
 ---
 
-# Integrare Experience Manager con Marketi Engage
+# Integrare Experience Manager con Marketo Engage
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-marketo.md}}

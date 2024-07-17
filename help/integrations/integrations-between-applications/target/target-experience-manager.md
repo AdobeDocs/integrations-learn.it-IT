@@ -1,6 +1,6 @@
 ---
-title: Integrare [!DNL Target] con Experience Manager
-description: Integrare Adobe Experience Manager (AEM) con [!DNL Adobe Target] per offrire esperienze personalizzate.
+title: Integra [!DNL Target]  con Experience Manager
+description: Integra Adobe Experience Manager (AEM) con [!DNL Adobe Target] per offrire esperienze personalizzate.
 solution: Target, Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 5%
 
 ---
 
-# Integrare [!DNL Target] con Experience Manager
+# Integra [!DNL Target] con Experience Manager
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-target.md}}

@@ -2,20 +2,20 @@
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 31%
+ht-degree: 2%
 
 ---
 
 
-# [!DNL Campaign] e dati dei clienti in tempo reale [!DNL Platform]
+# [!DNL Campaign] e dati cliente in tempo reale [!DNL Platform]
 
 {{campaign-description}}
 
 {{real-time-cdp-description}}
 
-L’Adobe [!DNL Campaign] I connettori di origine e destinazione del Cloud Service gestito consentono un&#39;integrazione perfetta tra gli Adobi [!DNL Campaign] e Adobe Experience [!DNL Platform]. I vantaggi principali di questa integrazione includono:
+I connettori Adobe [!DNL Campaign] Managed Cloud Service Destination e Source consentono l&#39;integrazione diretta tra Adobe [!DNL Campaign] e Adobe Experience [!DNL Platform]. I vantaggi principali di questa integrazione includono:
 
-+ **Incremento [!DNL Campaign]funzionalità di segmentazione di** con quelli di Adobe Experience [!DNL Platform] e attivare tali dati in [!DNL Campaign].
++ **Aumenta le funzionalità di segmentazione di [!DNL Campaign]** con i tipi di pubblico basati su [!DNL Platform] di Adobe Experience e attiva tali dati in [!DNL Campaign].
 
 ## Integrazioni comuni
 
@@ -31,17 +31,17 @@ L’Adobe [!DNL Campaign] I connettori di origine e destinazione del Cloud Servi
     <tbody>
         <tr>
             <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">[!DNL Campaign] v8 con Real-Time CDP</a></td>
-            <td>[!DNL Campaign] Destinazione Cloud Services gestiti</td>
+            <td>[!DNL Campaign] Destinazione Cloud Service gestiti</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Sfruttare l’esperienza Adobe [!DNL Platform] segmenti avanzati potenziati e attivali con Adobe [!DNL Campaign] per raggiungere la propria base clienti tra i diversi canali supportati da Adobe [!DNL Campaign].</li>
+                    <li>Sfrutta l'esperienza Adobe [!DNL Platform] basata sui segmenti avanzati e attivali utilizzando l'Adobe [!DNL Campaign] per raggiungere la propria base clienti tra i diversi canali supportati dall'Adobe [!DNL Campaign].</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
                 <li>Stimolare la personalizzazione e il coinvolgimento attraverso un’unica vista accessibile del cliente.</li>
-                <li>Integrare nel percorso cliente canali e-mail, mobili, online e offline.</li>
-                <li>Automatizzare la consegna di messaggi e offerte significativi e tempestivi.</li>
+                <li>Integra nel percorso clienti canali e-mail, mobili, online e offline.</li>
+                <li>Automatizza la consegna di messaggi e offerte significativi e tempestivi.</li>
                <ul style="margin-top: 0;">
             </td>
         </tr>              

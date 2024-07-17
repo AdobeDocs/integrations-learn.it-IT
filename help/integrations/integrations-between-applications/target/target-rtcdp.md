@@ -19,6 +19,6 @@ ht-degree: 3%
 
 ---
 
-# Integra Adobe [!DNL Target] con Adobe Real-time Customer Data Platform
+# Integrare l&#39;Adobe [!DNL Target] con Adobe Real-time Customer Data Platform
 
 {{$include /help/_includes/integrations-between-applications/rtcdp-target.md}}

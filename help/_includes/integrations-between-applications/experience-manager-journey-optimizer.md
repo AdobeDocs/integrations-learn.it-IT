@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '102'
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 12%
 
 L’integrazione di Adobe Journey Optimizer e Experience Manager Assets Essentials offre diversi vantaggi, tra cui:
 
-+ **Distribuzione efficiente dei contenuti**: collabora perfettamente su contenuti personalizzati.
-+ **Maggiore efficienza di marketing**: consente di risparmiare tempo e garantisce la coerenza delle campagne.
-+ **Personalizzazione basata su dati**: personalizza i contenuti utilizzando informazioni preziose.
-+ **Controllo delle versioni e governance**: mantiene la coerenza dei messaggi del brand.
-+ **Collaborazione semplificata**: semplifica il lavoro di squadra e agevola i flussi di lavoro.
++ **Consegna efficiente dei contenuti**: collabora senza problemi con contenuti personalizzati.
++ **Maggiore efficienza marketing**: consente di risparmiare tempo e garantisce la coerenza delle campagne.
++ **Personalizzazione basata sui dati**: personalizza i contenuti utilizzando informazioni importanti.
++ **Controllo della versione e governance**: mantieni coerenza nei messaggi del brand.
++ **Collaborazione semplificata**: facilita il lavoro di gruppo e flussi di lavoro fluidi.
 
 ## Integrazioni comuni
 
