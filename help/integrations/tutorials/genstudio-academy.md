@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: Destinazione GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: 76593c55619d210c54db9c6c1b41817fe47ef051
+source-git-commit: b4ab8bedfe1ad34e60fc52ce7c365f1b75de4fc8
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---
@@ -67,8 +67,6 @@ ht-degree: 1%
     <td align="right"><img src="./assets/small.png"></td>
  </tr>
 </table>
-
-https://video.tv.adobe.com/v/26061?format=jpeg
 
 >[!BEGINSHADEBOX]
 
