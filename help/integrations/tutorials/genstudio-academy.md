@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: Destinazione GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: e296e5d0859af7258ff4dcdd21ec507bfe1e3661
+source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 2%
+source-wordcount: '176'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 <table>
  <tr style= "border: 0;">
   <td> <strong style= "font-size: 2em">Diventa un leader di IA generativa.</strong><p> Diventa un leader generativo nell’intelligenza artificiale. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registra</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Accesso</span></a></td>
-  <td><img src="./assets/medium.png"></td>
+  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
@@ -36,7 +36,7 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="./assets/medium.png"></td>
+  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
   <td align="center"> <strong style= "font-size: 2em">Competenze di IA generativa in qualsiasi momento.</strong><p> Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Esplora ora</span></a></td>
  </tr>
 </table>
@@ -45,26 +45,20 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em"> richiesta FOO semplificata.</strong><p> Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore.</td>
+  <td align="center"> <strong style= "font-size: 2em">Suddivisione di IA generativa per il marketing.</strong><p> Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore.</td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
-<table>
- <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <strong style= "font-size: 2em">Suddivisione di IA generativa per il marketing.</strong><p> Diventa un leader generativo nell’intelligenza artificiale. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Vai</span><td>
- </tr>
-</table>
 
 <table>
  <tr style= "border: 0;colspan: 2;">
   <td> <strong style= "font-size: 2em">Prossimamente alla Genstudio Academy</strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 2;"> 
-    <td align="left"><img src="./assets/small.png"></td>
-    <td align="center"><img src="./assets/small.png"></td>
-    <td align="right"><img src="./assets/small.png"></td>
+    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
