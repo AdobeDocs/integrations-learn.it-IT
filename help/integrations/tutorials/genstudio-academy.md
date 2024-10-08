@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: Destinazione GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: aeefe4dcd0140149b419fc77631b324797547b30
+source-git-commit: e8809d1e8662797ef6c3fdf0370e83f96797f600
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 1%
+source-wordcount: '254'
+ht-degree: 2%
 
 ---
 
@@ -79,12 +79,19 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
- <td><img src="./assets/medium.png"></td>
-  <td> <strong style= "font-size: 2em">FOOO FOOO</strong><p> Diventa un leader generativo nell’intelligenza artificiale. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registra</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Accesso</span></a></td>
+ <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td> <strong style= "font-size: 2em">Metti in pratica i tuoi insegnamenti</strong><p> Diventa un leader generativo nell’intelligenza artificiale. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Vai</span></a></td>
 
 </tr>
 </table>
 
+<table>
+ <tr style= "border: 0;">
+ <td><img src="./assets/medium.png"></td>
+  <td> <strong style= "font-size: 2em">FOOO FOOO</strong><p> Diventa un leader generativo nell’intelligenza artificiale. Acquisisci le competenze di intelligenza artificiale per trasformare i flussi di lavoro e portare avanti il tuo settore. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Vai</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Accesso</span></a></td>
+
+</tr>
+</table>
 
 >[!ENDSHADEBOX]
 
