@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: Destinazione GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
+source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -22,12 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> Master Generative AI. Trasforma i tuoi flussi di lavoro.</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    Scopri le competenze di base per l’utilizzo dell’intelligenza artificiale generativa nei flussi di lavoro di marketing. Ovunque. Gratis.
+    <strong style= "font-size: 2em"> Master Generative AI. Trasforma i tuoi flussi di lavoro.</strong><p>Scopri le competenze di base per l’utilizzo dell’intelligenza artificiale generativa nei flussi di lavoro di marketing. Ovunque. Gratis.
   </td>
  </tr>
 </table>
