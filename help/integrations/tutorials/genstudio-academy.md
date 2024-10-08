@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: Destinazione GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: 4d5e0fc3c60fcc91f43d261aa684d0a854071eb0
+source-git-commit: fb68c2c375b8704b8a482cbc145f8e284976b5cb
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -47,10 +47,10 @@ ht-degree: 1%
 
 
 <table>
- <tr style= "border: 0;">
-  <td> <strong style= "font-size: 2em;colspan: 2;">Prossimamente alla Genstudio Academy</strong></td>
+ <tr style= "border: 0;colspan: 3;">
+  <td style= "colspan: 3;"> <strong style= "font-size: 2em;">Prossimamente alla Genstudio Academy</strong></td>
  </tr> 
- <tr style= "border: 0;colspan: 2;"> 
+ <tr style= "border: 0;colspan: 3;"> 
     <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
     <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
     <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
