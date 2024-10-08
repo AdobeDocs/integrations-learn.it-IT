@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: Destinazione GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: b4ab8bedfe1ad34e60fc52ce7c365f1b75de4fc8
+source-git-commit: f63c9098d09776a8de8b9c374dab79c0eab0db4a
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 1%
