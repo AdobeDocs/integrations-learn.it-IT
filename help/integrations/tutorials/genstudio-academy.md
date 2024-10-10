@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: Destinazione GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
+source-git-commit: e8126729c5ebc92999d09be07c8a359f96236ed3
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 1%
 
 ---
 
@@ -47,15 +47,14 @@ ht-degree: 2%
 
 
 <table>
- <!-- <tr style= "border: 0;colspan: 3;">
-  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
- </tr> --> 
+ <tr style= "border: 0;colspan: 3;">
+  <td colspan="3"> <strong style= "font-size: 2em;">Prossimamente alla Genstudio Academy</strong></td>
+ </tr> 
  <tr style= "border: 0;colspan: 3;"> 
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com"><strong>Suggerimenti </strong>
-      </a>
+      <strong>Suggerimenti </strong>
       </div>
       <p>
       Suggerimenti per utilizzare GenStudio for Performance Marketing nel modo più efficiente.
@@ -64,8 +63,7 @@ ht-degree: 2%
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com"><strong>Corsi di esperti</strong>
-      </a>
+      <strong>Corsi di esperti</strong>
       </div>
       <p>
       Corsi avanzati per sbloccare le competenze di intelligenza artificiale di livello esperto nel marketing.
@@ -80,7 +78,7 @@ ht-degree: 2%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">Metti in pratica i tuoi insegnamenti</strong><p>Esplora GenStudio for Performance Marketing: un’applicazione IA-first generativa che consente ai team di marketing di creare annunci ed e-mail personalizzati per campagne di marketing di grande impatto e personalizzate.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Vai</span></a></td>
+  <td> <strong style= "font-size: 2em">Metti in pratica i tuoi insegnamenti</strong><p>Esplora GenStudio for Performance Marketing: un’applicazione IA-first generativa che consente ai team di marketing di creare annunci ed e-mail personalizzati per campagne di marketing di grande impatto e personalizzate.<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Vai</span></a></td>
  </tr>
     <tr></tr>
 </table>
