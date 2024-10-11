@@ -3,9 +3,9 @@ user-guide-title: Tutorial integrazioni di Experience Cloud
 breadcrumb-title: Integrazioni di Experience Cloud
 user-guide-description: Integrazioni Scopri.
 mini-toc-levels: 1
-source-git-commit: 055180c634e028a208d1def883288441e76f87c3
+source-git-commit: bb2658916a519c651ebcd350dcc72e3a8593180f
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 17%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 17%
    + [Percorsi di clienti](./solution-categories/customer-journeys.md)
    + [Informazioni sui dati e attivazione](./solution-categories/data-insights.md)
    + [Personalization su larga scala](./solution-categories/personalization.md)
-   + [GenStudio Academy](./tutorials/genstudio-academy.md)
 + Integrazioni di prodotti{#integrations-between-applications}
    + [Panoramica](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
