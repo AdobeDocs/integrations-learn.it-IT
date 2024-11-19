@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16483
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 
 # Revisione e approvazione leggere in Adobe GenStudio
+
+[‹ Panoramica sull’integrazione](./overview.md)
 
 Scopri come caricare, rivedere e approvare le risorse in AEM Assets as a Cloud Service per semplificare il flusso di lavoro dei contenuti. Una volta approvate, queste risorse si integrano perfettamente in GenStudio for Performance Marketing, garantendo un facile accesso ai materiali approvati dal marchio per le tue campagne.
 

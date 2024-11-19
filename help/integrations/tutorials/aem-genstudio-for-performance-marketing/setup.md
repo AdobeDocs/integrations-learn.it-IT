@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
 
 # Configura
+
+[‹ Panoramica sull’integrazione](./overview.md)
 
 Per iniziare a utilizzare Adobe GenStudio con AEM Assets as a Cloud Service e GenStudio for Performance Marketing, entrambe le applicazioni devono essere configurate correttamente. Il processo di configurazione prevede diversi passaggi che devono essere completati prima di poter integrare completamente Adobe GenStudio con AEM Assets e GenStudio for Performance Marketing.
 
@@ -33,7 +35,6 @@ Queste attività richiederanno la collaborazione con gli amministratori che disp
    {title=Enable AEM Assets Content Hub}
 * https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started
    {title=Set up GenStudio for Performance Marketing}
-<<<<<<< HEAD
    {image=https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
 
 -->
@@ -67,7 +68,7 @@ Queste attività richiederanno la collaborazione con gli amministratori che disp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up" title="Abilita AEM Assets Content Hub" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1732038506465" alt="Abilita AEM Assets Content Hub"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1732038662663" alt="Abilita AEM Assets Content Hub"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +91,7 @@ Queste attività richiederanno la collaborazione con gli amministratori che disp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" title="Configurare GenStudio for Performance Marketing" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation || 'default'}.png" alt="Configurare GenStudio for Performance Marketing"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=400&format=webply&optimize=medium" alt="Configurare GenStudio for Performance Marketing"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,8 +112,3 @@ Queste attività richiederanno la collaborazione con gli amministratori che disp
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-=======
-
--->
->>>>>>>>>>edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
-> 

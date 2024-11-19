@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
-source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Procedura dettagliata sull’integrazione
+
+[‹ Panoramica sull’integrazione](./overview.md)
 
 Scopri le nozioni di base sull’utilizzo dell’integrazione tra AEM Assets as a Cloud Service e GenStudio for Performance Marketing; il caricamento di risorse in AEM Assets, l’approvazione delle risorse in AEM Assets e l’utilizzo di risorse approvate in GenStudio for Performance Marketing.
 
