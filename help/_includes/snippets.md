@@ -1,7 +1,7 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '941'
 ht-degree: 2%
 
 ---
@@ -9,23 +9,23 @@ ht-degree: 2%
 
 ## Descrizione di Acrobat Sign {#acrobat-sign-description}
 
-Adobe Acrobat Sign è un servizio di firma digitale offerto da Adobe che consente agli utenti di firmare e raccogliere firme su documenti in formato elettronico. Viene utilizzato per semplificare i processi di firma dei documenti, aumentare l&#39;efficienza e garantire l&#39;autenticità e la validità legale dei file firmati, rendendoli una scelta popolare per le aziende e i singoli utenti che desiderano un approccio sicuro e privo di supporti cartacei alla gestione dei documenti.
+Adobe Acrobat Sign è un servizio di firma digitale offerto da Adobe che consente agli utenti di firmare e raccogliere firme in formato elettronico sui documenti. Viene utilizzato per semplificare i processi di firma dei documenti, aumentare l&#39;efficienza e garantire l&#39;autenticità e la validità legale dei file firmati, rendendoli una scelta popolare per le aziende e i singoli utenti che desiderano un approccio sicuro e privo di supporti cartacei alla gestione dei documenti.
 
 ## Descrizione di [!DNL Analytics] {#analytics-description}
 
-L&#39;Adobe [!DNL Analytics] è una soluzione di analisi che consente alle organizzazioni di tenere traccia, misurare e analizzare il comportamento degli utenti sulle proprietà digitali, ad esempio siti Web, app mobili, contenuti multimediali in streaming e social media. L&#39;Adobe [!DNL Analytics] fornisce approfondimenti sul modo in cui gli utenti interagiscono con i contenuti digitali, aiutando le organizzazioni a ottimizzare le proprie esperienze digitali e a migliorare le proprie strategie di marketing.
+Adobe [!DNL Analytics] è una soluzione di analisi che consente alle organizzazioni di monitorare, misurare e analizzare il comportamento degli utenti sulle proprietà digitali, ad esempio siti Web, app mobili, contenuti multimediali in streaming e social media. Adobe [!DNL Analytics] fornisce informazioni sul modo in cui gli utenti interagiscono con i contenuti digitali, aiutando le organizzazioni a ottimizzare le proprie esperienze digitali e a migliorare le proprie strategie di marketing.
 
 ## Descrizione Audience Manager {#audience-manager-description}
 
-Adobe Audience Manager (AAM) è una piattaforma di gestione dati (DMP, data management platform) fornita da Adobe. Consente alle aziende di raccogliere, organizzare e segmentare grandi quantità di dati sul pubblico da varie sorgenti, aiutando gli esperti di marketing a creare campagne pubblicitarie mirate e personalizzate, ottimizzare la distribuzione dei contenuti e migliorare l’esperienza complessiva dei clienti sulla base di informazioni preziose raccolte dal comportamento e dalle preferenze del pubblico.
+Adobe Audience Manager (AAM) è una piattaforma di gestione dati (DMP) fornita da Adobe. Consente alle aziende di raccogliere, organizzare e segmentare grandi quantità di dati sul pubblico da varie sorgenti, aiutando gli esperti di marketing a creare campagne pubblicitarie mirate e personalizzate, ottimizzare la distribuzione dei contenuti e migliorare l’esperienza complessiva dei clienti sulla base di informazioni preziose raccolte dal comportamento e dalle preferenze del pubblico.
 
 ## Descrizione di [!DNL Campaign] {#campaign-description}
 
-L&#39;Adobe [!DNL Campaign] fornisce una piattaforma per la progettazione di customer experience cross-channel e un ambiente per l&#39;orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l&#39;esecuzione cross-channel.
+Adobe [!DNL Campaign] fornisce una piattaforma per la progettazione di customer experience cross-channel e un ambiente per l&#39;orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l&#39;esecuzione cross-channel.
 
 ## Descrizione di [!DNL Commerce] {#commerce-description}
 
-L&#39;Adobe [!DNL Commerce] è una piattaforma di e-commerce leader del settore che offre alle aziende una soluzione flessibile e affidabile per la creazione e la gestione di negozi online. Offre un’ampia gamma di funzioni e funzionalità che consentono alle aziende di creare esperienze di acquisto uniche, scalabili e personalizzate per i propri clienti.
+Adobe [!DNL Commerce] è una piattaforma di e-commerce leader del settore che offre alle aziende una soluzione flessibile e affidabile per la creazione e la gestione di negozi online. Offre un’ampia gamma di funzioni e funzionalità che consentono alle aziende di creare esperienze di acquisto uniche, scalabili e personalizzate per i propri clienti.
 
 ## Descrizione di Creative Cloud for Enterprise {#creative-cloud-description}
 
@@ -33,7 +33,7 @@ Adobe Creative Cloud for enterprise è una suite completa di applicazioni creati
 
 ## Descrizione Percorso di clienti [!DNL Analytics] {#customer-journey-analytics-description}
 
-Adobe Il Percorso di clienti [!DNL Analytics] (CJA) è una piattaforma di analisi offerta da Adobe che consente alle aziende di analizzare e visualizzare le interazioni dei clienti su vari punti di contatto e canali. Consente alle organizzazioni di ottenere informazioni approfondite sul comportamento dei clienti, identificare modelli e ottimizzare i percorsi di clienti, aiutandoli a prendere decisioni basate sui dati per migliorare le strategie di marketing, migliorare le esperienze dei clienti e favorire la crescita aziendale.
+Adobe Customer Percorsi [!DNL Analytics] (CJA) è una piattaforma di analisi offerta da Adobe che consente alle aziende di analizzare e visualizzare le interazioni dei clienti su vari punti di contatto e canali. Consente alle organizzazioni di ottenere informazioni approfondite sul comportamento dei clienti, identificare modelli e ottimizzare i percorsi di clienti, aiutandoli a prendere decisioni basate sui dati per migliorare le strategie di marketing, migliorare le esperienze dei clienti e favorire la crescita aziendale.
 
 ## Descrizione Experience Manager {#experience-manager-description}
 
@@ -46,6 +46,11 @@ Adobe Experience Manager Forms è un componente di Adobe Experience Manager, pro
 ## Descrizione dell&#39;esperienza [!DNL Platform] {#experience-platform-description}
 
 Adobe Experience [!DNL Platform] è il sistema più potente, flessibile e aperto sul mercato per la creazione e la gestione di soluzioni complete che guidano la customer experience. L&#39;esperienza [!DNL Platform] consente alle organizzazioni di centralizzare e standardizzare i dati e i contenuti dei clienti da qualsiasi sistema e di applicare tecniche di data science e apprendimento automatico al fine di migliorare la progettazione e la distribuzione di esperienze personalizzate.
+
+
+## Descrizione di GenStudio for Performance Marketing {#genstudio-for-performance-marketing-description}
+
+Adobe GenStudio for Performance Marketing è un’applicazione potente che semplifica la creazione e la gestione dei contenuti integrando le risorse approvate dal marchio, consentendo agli addetti al marketing di fornire contenuti personalizzati e coerenti su tutti i canali e su larga scala, migliorando le prestazioni delle campagne.
 
 ## Descrizione di Journey Optimizer {#journey-optimizer-description}
 
@@ -65,7 +70,7 @@ Adobe Real-Time Customer Data [!DNL Platform] (Real-Time CDP) è una piattaforma
 
 ## Descrizione di [!DNL Target] {#target-description}
 
-L&#39;Adobe [!DNL Target] è una potente piattaforma di test e personalizzazione che consente alle aziende di ottimizzare e fornire esperienze personalizzate ai propri clienti. L&#39;Adobe [!DNL Target] consente alle aziende di creare e testare esperienze personalizzate utilizzando machine learning, AI e analytics per inviare il messaggio giusto al pubblico giusto.
+Adobe [!DNL Target] è una potente piattaforma di test e personalizzazione che consente alle aziende di ottimizzare e fornire esperienze personalizzate ai propri clienti. Adobe [!DNL Target] consente alle aziende di creare e testare esperienze personalizzate utilizzando machine learning, AI e analytics per inviare il messaggio giusto al pubblico giusto.
 
 ## Descrizione di Workfront {#workfront-description}
 

@@ -2,10 +2,10 @@
 title: Integrazioni di applicazioni per la supply chain dei contenuti
 description: Pianifica, crea, personalizza e pubblica i contenuti.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '327'
+ht-degree: 1%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 Pianifica, crea, personalizza e pubblica contenuti indimenticabili per ogni cliente, alla velocità del momento.
 
-Per soddisfare le aspettative dei clienti in tempo reale su esperienze personalizzate sono necessari più contenuti digitali che mai. Con le soluzioni per la gestione delle risorse e il flusso di lavoro creativo di Adobe, i team possono pianificare, creare e distribuire contenuti personalizzati su larga scala che supportano il percorso dei clienti in ogni punto di contatto.
+Per soddisfare le aspettative dei clienti in tempo reale su esperienze personalizzate sono necessari più contenuti digitali che mai. Con le soluzioni Adobe per la gestione del flusso di lavoro creativo e delle risorse, i team possono pianificare, creare e distribuire contenuti personalizzati su larga scala che supportano il percorso dei clienti in ogni punto di contatto.
 
 <table>
  <thead>
@@ -26,14 +26,24 @@ Per soddisfare le aspettative dei clienti in tempo reale su esperienze personali
   </thead>
   <tbody>
 <tr>
-  <td><strong>Creare materiale promozionale di marketing utilizzando le risorse del marchio</strong><br/></td>
-  <td>Crea e supervisiona contenuti e modelli di e-mail marketing utilizzando AEM e l'Adobe [!DNL Campaign].</td>
+  <td rowspan="2"><strong>Creare materiale promozionale di marketing utilizzando le risorse del marchio</strong><br/></td>
+  <td>Crea e supervisiona contenuti e modelli di e-mail marketing utilizzando AEM e Adobe [!DNL Campaign].</td>
   <td>
     <ul>
       <li>Inviare e-mail di marketing create con AEM</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] e AEM</a></td>
+</tr>
+<tr>
+  <td>Creare esperienze di marketing personalizzate e on-brand.</td>
+  <td>
+    <ul>
+      <li>Invia e-mail di marketing create in GenStudio for Performance Marketing con immagini on-brand da AEM Assets.</li>
+      <li>Creare annunci Meta su brand in GenStudio for Performance Marketing utilizzando immagini su brand di AEM Assets.</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GENSTUDIO FOR PERFORMANCE MARKETING e AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>Gestire la creazione di risorse</strong><br/></td>
