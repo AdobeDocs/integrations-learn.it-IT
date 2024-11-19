@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -40,9 +40,7 @@ Scopri due procedure dettagliate complete: la prima ti guida attraverso la proce
 
 -->
 
-
 ## Casi d’uso
-
 
 Esplora i casi d’uso pratici che dimostrano come questa integrazione migliori i flussi di lavoro. Dalla semplificazione dei processi di approvazione delle risorse alla creazione e utilizzo di varianti di contenuto personalizzate, scopri come AEM Assets as a Cloud Service e GenStudio for Performance Marketing collaborano per campagne di marketing efficienti e coerenti in termini di prestazioni.
 
