@@ -12,16 +12,16 @@ duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 4400dfd33821ef15e134f272fa9834b6302b61b1
+source-git-commit: 0943e1198e542a4357e19708b7bd6f0d79c2aafc
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '270'
 ht-degree: 1%
 
 ---
 
 # Configurare GenStudio for Performance Marketing e AEM Assets
 
-[‹ Panoramica sull’integrazione](./overview.md)
+[‹ Torna a AEM Asset e GenStudio for Performance Marketing panoramica](./overview.md)
 
 Per iniziare a utilizzare Adobe GenStudio con AEM Assets as a Cloud Service e GenStudio for Performance Marketing, assicurati che siano stati eseguiti il provisioning, l’abilitazione e la configurazione dei prodotti necessari. In particolare, devi accedere a:
 
@@ -31,7 +31,7 @@ Per iniziare a utilizzare Adobe GenStudio con AEM Assets as a Cloud Service e Ge
 
 Per integrare questi prodotti non sono necessarie altre impostazioni oltre a garantirne la disponibilità, la configurazione e l’accesso da parte dell’utente.
 
-## Configurare le guide
+## Guide all&#39;installazione
 
 Se questi prodotti di Adobe non sono ancora configurati e abilitati, consulta le seguenti guide per i passaggi di configurazione dettagliati:
 
