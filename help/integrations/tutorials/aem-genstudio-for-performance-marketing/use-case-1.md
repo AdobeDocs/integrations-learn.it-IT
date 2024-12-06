@@ -15,7 +15,7 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset e GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
+source-git-commit: d3f671ffc39355a5e227bfdf94fdb3a24032f53e
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Scopri come caricare, rivedere e approvare le risorse in AEM Assets as a Cloud Service per semplificare il flusso di lavoro dei contenuti. Una volta approvate, queste risorse si integrano perfettamente in GenStudio for Performance Marketing, garantendo un facile accesso ai materiali approvati dal marchio per le tue campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)
