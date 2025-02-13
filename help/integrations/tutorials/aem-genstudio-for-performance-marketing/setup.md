@@ -1,6 +1,6 @@
 ---
-title: Configurare Adobe GenStudio con GenStudio for Performance Marketing e AEM Assets
-description: Scopri come impostare l’integrazione tra AEM Assets e GenStudio for Performance Marketing.
+title: Configurare GenStudio for Performance Marketing e AEM Assets
+description: Configura Adobe GenStudio con GenStudio for Performance Marketing e AEM Assets per semplificare la creazione dei contenuti e garantire la coerenza del brand.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -14,16 +14,16 @@ index: true
 hidefromtoc: true
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 153f3ba3b335748d35be9a5dea0a3ec6f1c0e346
+source-git-commit: 8e3adf228592b60b2a226326e885f9e7359ff232
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 7%
 
 ---
 
 # Configurare GenStudio for Performance Marketing e AEM Assets
 
-[‹ Torna a AEM Asset e GenStudio for Performance Marketing panoramica](./overview.md)
+[‹ Torna ad AEM Assets e panoramica di GenStudio for Performance Marketing](./overview.md)
 
 Per iniziare a utilizzare Adobe GenStudio con AEM Assets as a Cloud Service e GenStudio for Performance Marketing, assicurati che siano stati eseguiti il provisioning, l’abilitazione e la configurazione dei prodotti necessari. In particolare, devi accedere a:
 
@@ -35,7 +35,7 @@ Per integrare questi prodotti non sono necessarie altre impostazioni oltre a gar
 
 ## Guide all&#39;installazione
 
-Se questi prodotti di Adobe non sono ancora configurati e abilitati, consulta le seguenti guide per i passaggi di configurazione dettagliati:
+Se questi prodotti Adobe non sono ancora configurati e abilitati, consulta le seguenti guide per i passaggi di configurazione dettagliati:
 
 <!-- CARDS 
 
@@ -65,7 +65,7 @@ Se questi prodotti di Adobe non sono ancora configurati e abilitati, consulta le
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Configurare AEM Assets">Configura AEM Assets</a>
                     </p>
-                    <p class="is-size-6">Scopri come navigare nell’as a Cloud Service di AEM Assets nella vista Assets con questa selezione selezionata di playlist video volte a migliorare la conoscenza del tuo prodotto.</p>
+                    <p class="is-size-6">Scopri come navigare in AEM Assets as a Cloud Service nella vista Assets con questa selezione selezionata di playlist video per migliorare la conoscenza del tuo prodotto.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
