@@ -1,7 +1,6 @@
 ---
 title: Creare varianti con Adobe GenStudio
-description: Esplora il caso di utilizzo di AEM Assets e Adobe Express per creare varianti di risorse da utilizzare negli annunci e-mail e metadati utilizzati per promuovere la stessa esperienza di marketing.
-solution: Experience Manager, GenStudio for Performance Marketing
+description: Scopri come utilizzare AEM Assets e Adobe Express per creare varianti di risorse per annunci e-mail e meta, garantendo un’esperienza di marketing coerente.
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
@@ -15,17 +14,17 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset e GenStudio for Performance Marketing" type="positive"
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: 2bbf8feb6eb83c7bd3f8d36ca821713e86dd8b4f
+source-git-commit: 998a43ccd2b3d8a15f4c065e9e0f153edd81b7a6
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Creare varianti con Adobe GenStudio
 
-[‹ Torna a AEM Asset e GenStudio for Performance Marketing panoramica](./overview.md)
+[‹ Torna ad AEM Assets e panoramica di GenStudio for Performance Marketing](./overview.md)
 
-Scopri in che modo AEM Assets as a Cloud Service Adobe Express e GenStudio for Performance Marketing collaborano per creare rapidamente varianti di risorse personalizzate per campagne di marketing coerenti. Genera e adatta facilmente gli elementi visivi per le promozioni e-mail e i metadati, garantendo coerenza e rivolgendoti a tipi di pubblico diversi per la stessa esperienza di marketing.
+Scopri come AEM Assets as a Cloud Service e Adobe Express collaborano con GenStudio for Performance Marketing per creare rapidamente varianti di risorse personalizzate per campagne di marketing coerenti. Genera e adatta facilmente gli elementi visivi per le promozioni e-mail e i metadati, garantendo coerenza e rivolgendoti a tipi di pubblico diversi per la stessa esperienza di marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)
