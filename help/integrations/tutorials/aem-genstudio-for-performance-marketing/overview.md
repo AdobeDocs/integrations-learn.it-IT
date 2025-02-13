@@ -1,6 +1,6 @@
 ---
-title: Adobe GenStudio con GenStudio for Performance Marketing e AEM Assets
-description: Questo video descrive come l’integrazione di AEM Assets con GenStudio for Performance Marketing consenta ai team di accedere a un archivio centralizzato di risorse approvate dal marchio, per garantire contenuti coerenti su tutti i canali e le campagne.
+title: Utilizzo di Adobe GenStudio for Performance Marketing e AEM Assets
+description: Sblocca Adobe GenStudio per semplificare il marketing. Accedi alle risorse approvate dal marchio e crea contenuti coerenti e di alta qualità su tutti i canali.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,9 +15,9 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset e GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: ad3d8d090434b1c1a2cbcf024223db9fb6bb9fef
+source-git-commit: 7ffb3102086df5d7ca7b6593fd94bec9518d227e
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -32,14 +32,14 @@ Sfrutta la potenza di Adobe GenStudio e AEM Assets as a Cloud Service per trasfo
 
 L’integrazione tra AEM Assets e GenStudio for Performance Marketing richiede una conoscenza di base di:
 
-* Adobe GenStudio for Performance Marketing
-* AEM Assets as a Cloud Service
+* [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing)
+* [AEM Assets as a Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/overview)
 
 Prima di immergerti nella configurazione e nei flussi di lavoro, assicurati di disporre dell’accesso necessario ad AEM Assets e GenStudio for Performance Marketing.
 
 ## Introduzione
 
-Scopri due procedure dettagliate complete progettate per gli utenti con una conoscenza di base di AEM Assets e GenStudio for Performance Marketing. La prima procedura dettagliata ti guida attraverso la procedura di configurazione, coprendo tutto ciò che è necessario per integrare perfettamente Adobe GenStudio con AEM Assets as a Cloud Service. Il secondo esamina i flussi di lavoro chiave e illustra i principali vantaggi dell&#39;integrazione per creare, gestire e distribuire in modo efficace i contenuti di marketing relativi alle prestazioni.
+Scopri due procedure dettagliate complete progettate per gli utenti con una conoscenza di base di AEM Assets e GenStudio for Performance Marketing. La prima procedura dettagliata ti guida attraverso il processo di configurazione, coprendo tutto ciò che è necessario per integrare facilmente Adobe GenStudio con AEM Assets as a Cloud Service. Il secondo esamina i flussi di lavoro chiave e illustra i principali vantaggi dell&#39;integrazione per creare, gestire e distribuire in modo efficace i contenuti di marketing relativi alle prestazioni.
 
 <!-- CARDS 
 
@@ -128,7 +128,7 @@ Esplora i casi d’uso pratici progettati per gli utenti con una conoscenza di b
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Revisione e approvazione leggere in Adobe GenStudio">Revisione e approvazione leggere nell'Adobe GenStudio</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Revisione e approvazione leggere in Adobe GenStudio">Revisione e approvazione leggere in Adobe GenStudio</a>
                     </p>
                     <p class="is-size-6">Esplora il caso di utilizzo del caricamento, della revisione e dell’approvazione delle risorse in AEM Assets per renderle disponibili per l’utilizzo in GenStudio for Performance Marketing.</p>
                 </div>
