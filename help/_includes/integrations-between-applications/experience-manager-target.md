@@ -35,7 +35,7 @@ Alcuni vantaggi dell&#39;utilizzo congiunto di Adobe Experience Manager e Adobe 
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM headless as a Cloud Service [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=it" target="_blank" rel="noreferrer">AEM headless as a Cloud Service [!DNL Target]</a></td>
             <td>Estensione tag Experience [!DNL Platform] Web SDK o alloy.js</td>
             <td>
               <ul style="margin-top: 0;">

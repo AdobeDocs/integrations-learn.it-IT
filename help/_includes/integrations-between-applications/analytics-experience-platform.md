@@ -34,7 +34,7 @@ Integrando queste piattaforme, le aziende possono sfruttare i dati per esperienz
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">[!DNL Analytics] ed esperienza [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=it" target="_blank" rel="noreferrer">[!DNL Analytics] ed esperienza [!DNL Platform]</a></td>
             <td>Connettore di origine dell'esperienza [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">

@@ -18,10 +18,10 @@ Questi Experienci Cloud di tutorial sull’integrazione descrivono alcune delle 
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="Per prodotto" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="Per prodotto" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=it"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="Per soluzione aziendale" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="Per soluzione aziendale" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=it"/></a>
    </td>  
 </tr>
 <tr>

@@ -52,7 +52,7 @@ I vantaggi principali dell&#39;integrazione di Adobe [!DNL Analytics] e Adobe [!
         <tr>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Servizi di base di Experience Cloud</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=it" target="_blank" rel="noreferrer">Servizi di base di Experience Cloud</a></li>
                 </ul>
             </td>
             <td>
