@@ -39,8 +39,10 @@ Per eseguire questa operazione, accedere alla sezione di amministrazione dell&#3
 
 1. Configurare il modulo con le credenziali dall&#39;interno del back office Adobe [!DNL Commerce].
    * Innanzitutto le configurazioni del connettore dei servizi [!DNL Commerce], come illustrato di seguito.
+
      Installazione di ![[!DNL Commerce] Services Connector](./assets/analytics-commerce/commerce-services-connector-setup.png)
    * Quindi le impostazioni del connettore Experience [!DNL Platform], come illustrato di seguito.
+
      ![Esperienza [!DNL Platform] connettore](./assets/analytics-commerce/experience-platform-connector.png)
 
 Per maggiori dettagli su ogni fase e passaggio del processo di onboarding, segui le istruzioni riportate nella [Panoramica del connettore [!DNL Platform] Experience](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}. Il tutorial sul connettore Experience [!DNL Platform] tratta ogni sezione in modo approfondito e risponde alle tue eventuali domande. Utilizza questa esercitazione per gli altri passaggi della configurazione rapida.
