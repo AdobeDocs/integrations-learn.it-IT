@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Scopri le nozioni di base sull’utilizzo dell’integrazione AEM Assets as a Cloud Service e GenStudio for Performance Marketing, il caricamento di risorse in AEM Assets, l’approvazione delle risorse in AEM Assets e l’utilizzo di risorse approvate in GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439285/?learn=on&enablevpops&captions=ita)

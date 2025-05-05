@@ -24,7 +24,7 @@ ht-degree: 0%
 
 # Adobe GenStudio con AEM Assets e GenStudio for Performance Marketing
 
->[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439274/?learn=on&captions=ita)
 
 Sfrutta la potenza di Adobe GenStudio e AEM Assets as a Cloud Service per trasformare i flussi di lavoro di marketing basati sulle prestazioni. Grazie all’integrazione perfetta, puoi accedere alle risorse approvate dal marchio da un archivio centralizzato per creare contenuti coerenti e di alta qualità per ogni campagna e canale. Scopri come questi strumenti semplificano la supply chain dei contenuti e aumentano l’impatto sul marketing.
 
@@ -82,7 +82,7 @@ Scopri due procedure dettagliate complete progettate per gli utenti con una cono
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="Introduzione a GenStudio for Performance Marketing e AEM Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1739560516243" alt="Introduzione a GenStudio for Performance Marketing e AEM Assets"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439285/?format=jpeg&nocache=1739560516243&captions=ita" alt="Introduzione a GenStudio for Performance Marketing e AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,7 +120,7 @@ Esplora i casi d’uso pratici progettati per gli utenti con una conoscenza di b
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Revisione e approvazione leggere in Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1739560516635" alt="Revisione e approvazione leggere in Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439296/?format=jpeg&nocache=1739560516635&captions=ita" alt="Revisione e approvazione leggere in Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,7 +143,7 @@ Esplora i casi d’uso pratici progettati per gli utenti con una conoscenza di b
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="Creare varianti con Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1739560516573" alt="Creare varianti con Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439307/?format=jpeg&nocache=1739560516573&captions=ita" alt="Creare varianti con Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

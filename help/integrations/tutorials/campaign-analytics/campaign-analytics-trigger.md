@@ -32,22 +32,22 @@ Scopri come Adobe la raccolta dati di Experience [!DNL Platform] e aggiungere le
 >
 > Launch è ora la funzionalità Tag dell&#39;esperienza Adobe [!DNL Platform]. È disponibile in **Raccolte dati esperienza Adobe [!DNL Platform]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454024?quality=12&learn=on&captions=ita)
 
 ## Creare un trigger in Experience Cloud
 
 Scopri come configurare i trigger in Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446146?quality=12&learn=on&captions=ita)
 
 ## Crea un trigger in [!DNL Campaign] Standard
 
 Scopri come creare un evento trigger in [!DNL Campaign] Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446417?quality=12&learn=on&captions=ita)
 
 ## Configurare i messaggi transazionali utilizzando dati evento in tempo reale
 
 Scopri come configurare i messaggi transazionali utilizzando i dati evento in tempo reale provenienti dai trigger.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450210?quality=12&learn=on&captions=ita)

@@ -48,7 +48,7 @@ In questo video, destinato agli utenti business, scoprirai:
 * Come funziona A4T?
 * Quali sono i prerequisiti per utilizzare A4T?
 
->[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421726/?quality=12&learn=on&captions=ita)
 
 
 ## Casi d’uso comuni
@@ -59,13 +59,13 @@ I video seguenti mostrano diverse funzioni, tipi di attività e vantaggi dell’
 
 Il pannello [!DNL Analytics] per [!DNL Target] (A4T) consente di analizzare le attività e le esperienze di Adobe [!DNL Target] in Analysis Workspace con incremento e affidabilità.
 
->[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326715/?quality=12&learn=on&captions=ita)
 
 ### Analizzare un&#39;attività Auto-[!DNL Target] tramite il pannello A4T
 
 Questo video illustra come utilizzare il pannello [!DNL Analytics] per [!DNL Target] per visualizzare i risultati di un test Auto-[!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412969/?quality=12&learn=on&captions=ita)
 
 Sono inoltre disponibili due esercitazioni dettagliate che mostrano i dettagli per la configurazione dei rapporti A4T in Analysis Workspace per le attività di &quot;allocazione automatica&quot; e &quot;targeting automatico&quot;:
 
