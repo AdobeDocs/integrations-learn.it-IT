@@ -3,10 +3,10 @@ user-guide-title: Tutorial integrazioni di Experience Cloud
 breadcrumb-title: Integrazioni di Experience Cloud
 user-guide-description: Integrazioni Scopri.
 mini-toc-levels: 1
-source-git-commit: 2e76baa106c833668b7d966e4cfdbfaef8aabbd2
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 20%
+source-wordcount: '142'
+ht-degree: 26%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 20%
    + Workfront{#experience-manager}
       + [[!DNL Creative Cloud]](./integrations-between-applications/workfront/workfront-creative-cloud.md)
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
-+ Esercitazione{#tutorials}
++ Tutorial{#tutorials}
    + [!DNL Analytics] e [!DNL Commerce]{#analytics-commerce}
       + [[!DNL Analytics] e [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics] e CJA{#analytics-cja}
@@ -102,10 +102,17 @@ ht-degree: 20%
       + [Real-Time CDP e  [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP e  [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP e  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
-   + GenStudio for Performance Marketing e Experience Manager {#genstudio-for-performance-marketing-experience-manager}
+   + GENSTUDIO FOR PERFORMANCE MARKETING e EXPERIENCE MANAGER {#genstudio-for-performance-marketing-experience-manager}
       + [Panoramica](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [Configura](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [Procedura dettagliata sull’integrazione](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
       + Casi d’uso{#use-cases}
          + [Revisione e approvazione in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Creare varianti con Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+   + Experience Manager e Target{#experience-manager-target}
+      + [Panoramica](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Configurazione](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + Casi d’uso{#use-cases}
+         + [Sperimentazione (Test A/B)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Targeting comportamentale](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [Personalization utente noto](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)

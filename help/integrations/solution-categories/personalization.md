@@ -2,9 +2,9 @@
 title: Integrazioni di applicazioni per la personalizzazione su larga scala
 description: Rendi le esperienze personalizzate parte di ogni momento.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
   </thead>
   <tbody>
     <tr>
-      <td><strong>Creare documenti PDF personalizzati</strong></td>
+      <td><strong>Creazione di documenti PDF personalizzati</strong></td>
       <td>
         Genera documenti di comunicazione per la firma in base all'utente
         selezioni/preferenze.
@@ -32,7 +32,7 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Presentare una NDA generata in modo dinamico sulla base dei dati provenienti da un AEM
+            Presentare un NDA generato in modo dinamico in base ai dati provenienti da un’AEM
             Invio Forms per la firma
           </li>
         </ul>
@@ -76,8 +76,8 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
     <tr>
       <td>
         Generazione di rapporti per le attività di personalizzazione<br />Analisi dell'ottimizzazione
-        risultati di test, inclusi test A/B, utilizzando l'Adobe [!DNL Target] e
-        generazione di report completi tramite l'Adobe [!DNL Analytics].
+        risultati di test, inclusi test A/B, utilizzando Adobe [!DNL Target] e
+        generazione di report completi tramite Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -97,7 +97,7 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
       <td><strong>Personalizzare le consegne e-mail</strong></td>
       <td>
         Personalizzare le consegne e-mail con contenuti dinamici sfruttando
-        funzionalità dell'Adobe [!DNL Target].
+        funzionalità di Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -118,7 +118,7 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
         <strong>Espandi tipi di pubblico per piattaforme di personalizzazione e annunci</strong>
       </td>
       <td>
-        Utilizza i segmenti Audience Manager per creare tipi di pubblico in Real-Time CDP per
+        Utilizzare i segmenti di Audience Manager per creare tipi di pubblico in Real-Time CDP per
         da utilizzare nelle tattiche di personalizzazione e remarketing.
       </td>
       <td>
@@ -132,10 +132,10 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
             caratteristiche note del dispositivo e del comportamento
           </li>
           <li>
-            Sfruttare la rete dati Audience Manager di terze parti per ulteriori
+            Sfruttare la rete dati di terze parti di Audience Manager per ulteriori
             perfeziona ed espandi i tipi di pubblico per il targeting
           </li>
-          <li>Condividere segmenti di Audience Manager in RTCDP</li>
+          <li>Condividere segmenti di Audience Manager con RTCDP</li>
         </ul>
       </td>
       <td>
@@ -143,7 +143,7 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Dati cliente in tempo reale e Audience Manager [!DNL Platform]</a
+          >Dati dei clienti in tempo reale e Audience Manager [!DNL Platform]</a
         >
       </td>
     </tr>
@@ -178,11 +178,11 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
       <td rowspan="2"><strong>Personalizzare le esperienze web</strong></td>
       <td>
         Personalizzare le esperienze delle applicazioni a pagina singola (SPA) in modo efficace
-        utilizzo di AEM Headless in combinazione con l'Adobe [!DNL Target].
+        utilizzo di AEM Headless in combinazione con Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Personalizzazione di SPA e app mobili</li>
+          <li>Personalizzazione di applicazioni a pagina singola e app mobile</li>
           <li>Risposte API personalizzate.</li>
           <li>[!DNL Target]Consegna di contenuti end-to-end.</li>
           <li>Variazioni del test A/B.</li>
@@ -193,7 +193,7 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM headless e [!DNL Target]</a
+          >AEM Headless e [!DNL Target]</a
         >
       </td>
     </tr>
@@ -205,9 +205,9 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
       <td>
         <ul style="margin-top: 0;">
           <li>Personalizzazione del sito web AEM.</li>
-          <li>Personalizzare il contenuto del sito web.</li>
-          <li>Ottimizzare le esperienze utente.</li>
           <li>Variazioni del test A/B.</li>
+          <li>Targeting comportamentale basato sul comportamento dell’utente.</li>
+          <li>Personalizzazione utente nota mediante l’unione dei dati utente provenienti da più sistemi per fornire una visualizzazione a 360 gradi del cliente.</li>
         </ul>
       </td>
       <td>
