@@ -29,7 +29,7 @@ I video seguenti mostrano il valore dell’utilizzo di questa integrazione, nonc
 
 >[!NOTE]
 >
->Questi video illustrano l&#39;implementazione e la convalida per [!DNL Target] at.js e [!DNL Analytics] appMeasurement.js. Consulta la [documentazione](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) per le versioni della libreria richieste in entrambi gli strumenti.
+>Questi video illustrano l&#39;implementazione e la convalida per [!DNL Target] at.js e [!DNL Analytics] appMeasurement.js. Consulta la [documentazione](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=it) per le versioni della libreria richieste in entrambi gli strumenti.
 
 ### Configurazione di A4T ([!DNL Analytics] per [!DNL Target])
 
