@@ -1,13 +1,13 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '138'
 ht-degree: 2%
 
 ---
 
 
-# Dati cliente in tempo reale Adobe [!DNL Platform] e integrazione Adobe [!DNL Target]
+# Dati dei clienti in tempo reale di Adobe [!DNL Platform] e integrazione con Adobe [!DNL Target]
 
 {{real-time-cdp-description}}
 
@@ -16,13 +16,13 @@ ht-degree: 2%
 L&#39;integrazione di Real-Time CDP con [!DNL Target] consente di personalizzare i contenuti utilizzando dati noti dei clienti. Inoltre, le funzionalità di governance dei dati e consenso di Real-Time CDP consentono di utilizzare i dati noti dei clienti in modo responsabile, nel rispetto delle restrizioni legali, contrattuali e normative e delle preferenze dei clienti. I vantaggi principali dell&#39;integrazione di Real-Time CDP e [!DNL Target] includono:
 
 + **Distribuisci esperienze personalizzate** sul tuo sito Web e sulle tue app mobili.
-+ **Condividi segmenti e attributi di profilo** da Adobe Real-Time CDP all&#39;Adobe [!DNL Target].
++ **Condividi segmenti e attributi di profilo** da Adobe Real-Time CDP ad Adobe [!DNL Target].
 + **[!DNL Target]contenuto** ai segmenti e visualizza i valori degli attributi.
 
 <table>
     <thead>
         <tr>
-            <th>applicazioni Experience Cloud</th>
+            <th>Applicazioni Experience Cloud</th>
             <th>Integra tramite</th>
             <th>Quando utilizzare</th>
             <th>Casi d’uso comuni</th>
@@ -31,7 +31,7 @@ L&#39;integrazione di Real-Time CDP con [!DNL Target] consente di personalizzare
     <tbody>
     <tr>
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">REAL-TIME CDP e [!DNL Target]</a></td>
-        <td>SDK per web e destinazione [!DNL Target]</td>
+        <td>Web SDK e [!DNL Target] destinazione</td>
         <td>
             <ul style="margin-top: 0;">
                 <li>Quando desideri la condivisione più rapida di dati da Real-Time CDP a [!DNL Target] per il tuo sito Web.</li>
@@ -43,7 +43,8 @@ L&#39;integrazione di Real-Time CDP con [!DNL Target] consente di personalizzare
             </ul>
         </td>
     </tr>
-    <!--<tr>
+    <!--
+    <tr>
         <td>Real-Time CDP and [!DNL Target]</a></td>
         <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and [!DNL Target] destination</td>
         <td>
@@ -70,6 +71,7 @@ L&#39;integrazione di Real-Time CDP con [!DNL Target] consente di personalizzare
                 <li>Supports next-session personalization.</li>
             </ul>
         </td>
-    </tr>    -->
+    </tr>    
+    -->
     </tbody>
 </table>
