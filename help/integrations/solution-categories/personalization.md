@@ -2,9 +2,9 @@
 title: Integrazioni di applicazioni per la personalizzazione su larga scala
 description: Rendi le esperienze personalizzate parte di ogni momento.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: fc60646e49dcd32f833669e05e82397386eb68d9
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '610'
 ht-degree: 1%
 
 ---
@@ -175,7 +175,7 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>Personalizzare le esperienze web</strong></td>
+      <td rowspan="3"><strong>Personalizzare le esperienze web</strong></td>
       <td>
         Personalizzare le esperienze delle applicazioni a pagina singola (SPA) in modo efficace
         utilizzo di AEM Headless in combinazione con Adobe [!DNL Target].
@@ -219,6 +219,29 @@ In un panorama altamente competitivo e guidato dalla tecnologia digitale di oggi
         >
       </td>
     </tr>
+    <tr>
+      <td>
+        Suggerimenti pratici per l'integrazione di AEM e Adobe [!DNL Target]
+      </td>
+      <td>
+        <ul style="margin-top: 0;">
+          <li>Utilizzare frammenti di esperienza per Personalization scalabile</li>
+          <li>Speculare segmenti ContextHub per tipi di pubblico Target</li>
+          <li>Rendi i frammenti di esperienza pronti per il target</li>
+          <li>Creare la convalida di Target nei flussi di lavoro di Launch</li>
+          <li>Combina elementi multimediali dinamici + Target per Visual Personalization</li>
+          <li>Autore per Edge Delivery</li>
+        </ul>
+      </td>
+      <td>
+        <a
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          target="_blank"
+          rel="noopener noreferrer"
+          >AEM Sites e [!DNL Target]</a
+        >
+      </td>
+    </tr>    
     <tr>
       <td><strong>Personalizzare le esperienze digitali</strong></td>
       <td>
