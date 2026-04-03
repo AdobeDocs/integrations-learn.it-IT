@@ -1,8 +1,8 @@
 ---
 source-git-commit: ed53392381fa568de8230288e6b85c87540222cf
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 100%
+source-wordcount: '440'
+ht-degree: 64%
 
 ---
 # Contribuire agli articoli
@@ -21,13 +21,13 @@ Il modo in cui contribuisci dipende da chi sei e dal tipo di modifiche con le qu
 
 ### Modifiche minori
 
-Se contribuisci con piccoli aggiornamenti, consulta l’articolo e fai clic sul collegamento **Modifica** nell’articolo, per passare alla sorgente dell’articolo su GitHub. Quindi, utilizza l’interfaccia utente GitHub per effettuare gli aggiornamenti. Per ulteriori informazioni, consulta la [Guida collaboratore per i documenti di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it) generale.
+Se desideri contribuire con piccoli aggiornamenti, leggi l&#39;articolo e fai clic sul collegamento **Modifica** per passare alla sorgente dell&#39;articolo su GitHub. Quindi, utilizza l’interfaccia utente di GitHub per apportare gli aggiornamenti. Per ulteriori informazioni, consulta la [Guida collaboratore per i documenti di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it) generale.
 
 Le correzioni o i chiarimenti minori inviati per la documentazione e gli esempi di codice in questo archivio sono coperti dalle condizioni d’uso di Adobe.
 
 ### Modifiche principali o nuovi articoli dai membri della community
 
-Se fai parte della community di Adobe e desideri creare un nuovo articolo o inviare modifiche importanti, utilizza la scheda Issues (Segnalazioni) nell’archivio Git per inviare una segnalazione e avviare una conversazione con il team addetto alla documentazione. Dopo aver concordato un piano di attività, dovrai collaborare con un dipendente per contribuire alla creazione dei nuovi contenuti proposti tramite una combinazione di lavoro negli archivi pubblico e privato.
+Se fai parte della community Adobe e desideri creare un nuovo articolo o inviare modifiche importanti, utilizza la scheda Issues (Problemi) nell’archivio Git per inviare una segnalazione e avviare una conversazione con il team addetto alla documentazione. Dopo aver concordato un piano, dovrai collaborare con un dipendente per coordinare la pubblicazione dei nuovi contenuti attraverso una combinazione di interventi negli archivi pubblici e privati.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
@@ -35,7 +35,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Modifiche principali da dipendenti Adobe
 
-Se sei un autore, un responsabile di programma o uno sviluppatore del team di prodotto per una soluzione Adobe Experience Cloud e il tuo lavoro consiste nel creare o contribuire ad articoli tecnici, devi utilizzare l’archivio privato all’indirizzo `https://git.corp.adobe.com/AdobeDocs`.
+Se sei un autore tecnico, un responsabile di programma o uno sviluppatore del team di prodotto per una soluzione Adobe Experience Cloud ed è tuo compito creare o contribuire ad articoli tecnici, devi utilizzare l&#39;archivio privato all&#39;indirizzo `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
@@ -50,7 +50,7 @@ Per informazioni, consulta la [Guida collaboratore per i documenti di Adobe](htt
 Tutti gli articoli in questo archivio utilizzano GitHub Flavored Markdown. Se non conosci Markdown, consulta:
 
 * [Nozioni di base su Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [Cheat sheet Markdown stampabile](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Foglio di riferimento per markdown stampabile](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Etichette
 
