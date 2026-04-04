@@ -10,9 +10,8 @@ kt: null
 thumbnail: experience-manager-journey-optimizer.png
 badgeIntegration: label="Integrazione" type="positive"
 last-substantial-update: 2023-07-31T00:00:00Z
-hidefromtoc: true
 exl-id: 63e2d493-1161-40b3-adc5-6f0ff98b61a9
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '25'
 ht-degree: 4%
