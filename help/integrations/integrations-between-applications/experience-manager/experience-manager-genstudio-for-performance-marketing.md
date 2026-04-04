@@ -11,9 +11,8 @@ kt: null
 thumbnail: experience-manager-genstudio-for-performance-marketing.png
 badgeIntegration: label="Integrazione" type="positive"
 last-substantial-update: 2024-11-19T00:00:00Z
-hidefromtoc: true
 exl-id: 31e108d9-3c3d-48ff-94ff-5a9c7c3ca4b0
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '29'
 ht-degree: 3%

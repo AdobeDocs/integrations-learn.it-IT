@@ -7,13 +7,12 @@ topic: Integrations
 role: Admin, Developer
 level: Experienced
 index: true
-hidefromtoc: true
 kt: null
 thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="Integrazione" type="positive"
 exl-id: 040f992e-029c-44a2-ac2b-10f2995a6c75
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -26,22 +25,22 @@ Scopri come connettere Adobe [!DNL Campaign] a Adobe Experience Manager per gest
 
 Il video seguente spiega ciò che hai appreso.
 
->[!VIDEO](https://video.tv.adobe.com/v/344274?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
 
 ## Configura [!DNL Campaign] per l&#39;integrazione con Experience Manager
 
 Scopri come configurare l&#39;integrazione tra Experience Manager e [!DNL Campaign], incluse le impostazioni importanti da cercare e i potenziali errori da evitare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445904?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
 
 ## Approva e pubblica una pagina Experience Manager in [!DNL Campaign]
 
 Scopri come creare una newsletter in Experience Manager e come approvarla e pubblicarla in [!DNL Campaign].
 
->[!VIDEO](https://video.tv.adobe.com/v/3447579?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
 
 ## Sincronizzare e inviare una consegna e-mail di Experience Manager in [!DNL Campaign]
 
 Scopri come verificare e inviare una newsletter creata in Experience Manager, in [!DNL Campaign].
 
->[!VIDEO](https://video.tv.adobe.com/v/3444756?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)

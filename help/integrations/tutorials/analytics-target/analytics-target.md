@@ -7,13 +7,12 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: true
-hidefromtoc: true
 kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="Integrazione" type="positive"
 exl-id: 4ab6c61f-f14e-408a-a700-53f7b3d0600a
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 9%
@@ -29,7 +28,7 @@ I video seguenti mostrano il valore dell’utilizzo di questa integrazione, nonc
 
 >[!NOTE]
 >
->Questi video illustrano l&#39;implementazione e la convalida per [!DNL Target] at.js e [!DNL Analytics] appMeasurement.js. Consulta la [documentazione](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=it) per le versioni della libreria richieste in entrambi gli strumenti.
+>Questi video illustrano l&#39;implementazione e la convalida per [!DNL Target] at.js e [!DNL Analytics] appMeasurement.js. Consulta la [documentazione](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) per le versioni della libreria richieste in entrambi gli strumenti.
 
 ### Configurazione di A4T ([!DNL Analytics] per [!DNL Target])
 
@@ -48,7 +47,7 @@ In questo video, destinato agli utenti business, scoprirai:
 * Come funziona A4T?
 * Quali sono i prerequisiti per utilizzare A4T?
 
->[!VIDEO](https://video.tv.adobe.com/v/3421726/?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12&learn=on)
 
 
 ## Casi d’uso comuni
@@ -59,13 +58,13 @@ I video seguenti mostrano diverse funzioni, tipi di attività e vantaggi dell’
 
 Il pannello [!DNL Analytics] per [!DNL Target] (A4T) consente di analizzare le attività e le esperienze Adobe [!DNL Target] in Analysis Workspace con incremento e affidabilità.
 
->[!VIDEO](https://video.tv.adobe.com/v/326715/?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
 ### Analizzare un&#39;attività Auto-[!DNL Target] tramite il pannello A4T
 
 Questo video illustra come utilizzare il pannello [!DNL Analytics] per [!DNL Target] per visualizzare i risultati di un test Auto-[!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3412969/?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
 
 Sono inoltre disponibili due esercitazioni dettagliate che mostrano i dettagli per la configurazione dei rapporti A4T in Analysis Workspace per le attività di &quot;allocazione automatica&quot; e &quot;targeting automatico&quot;:
 
