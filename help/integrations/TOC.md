@@ -110,10 +110,10 @@ ht-degree: 32%
          + [Revisione e approvazione in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Creare varianti con Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager e Target{#experience-manager-target}
-      + [Panoramica](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Panoramica](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/personalization/overview)
       + [Demo live](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/personalization/live-demo)
-      + [Configura](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [Configura](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Casi d’uso{#use-cases}
-         + [Sperimentazione (Test A/B)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Sperimentazione (Test A/B)](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [Targeting comportamentale](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
          + [Personalization per utenti noti](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
