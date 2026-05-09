@@ -9,7 +9,7 @@ feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Custo
 type: Tutorial
 mini-toc-levels: 2
 auto-video-transcripts: true
-git-repo: https://github.com/AdobeDocs/integrations-learn.en
+git-repo: https://github.com/AdobeDocs/integrations-learn.it-IT
 index: true
 source-git-commit: d4203efd2a8fb8154101509da806b7aca6d65b62
 workflow-type: tm+mt
