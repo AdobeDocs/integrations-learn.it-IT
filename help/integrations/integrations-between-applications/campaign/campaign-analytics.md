@@ -9,12 +9,33 @@ level: Beginner
 kt: null
 thumbnail: analytics-campaign.png
 badgeIntegration: label="Integrazione" type="positive"
-last-substantial-update: 2023-05-19T00:00:00Z
+last-substantial-update: 2023-05-19T00:00:00.000Z
 exl-id: b1962bfe-e483-4a80-8258-a5bf8454b54c
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+TQID: https://experienceleague.adobe.com/9n5cEb--yI8Zz-a2YgEMgyBRE0bFKGJ0t1iaYK-tIyc
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+subfeature_v2:
+  - id: b13acd70-7a51-4028-8c44-5f3b1bbe3ad4
+  - id: c3bf7e1e-1db5-4c72-9293-e2f0b1ab73d0
+  - id: cbcf4d90-26be-46e2-b16a-aebc529dc41e
+  - id: e6c28e30-8689-4bf4-8fa8-561343d308a9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '11'
-ht-degree: 9%
+source-wordcount: 9
+ht-degree: 11%
 
 ---
 

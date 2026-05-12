@@ -2,9 +2,17 @@
 title: Integrazioni di applicazioni per il marketing B2B
 description: Coordinare la gestione dei lead, l’ABM e l’attribuzione su larga scala tra i canali in base ai profili cliente e ai dati unificati.
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/QzQkgpR9mqA5QUIa4pZiBBXnWYCafxne6bGosQhyeGA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: 226
 ht-degree: 2%
 
 ---
