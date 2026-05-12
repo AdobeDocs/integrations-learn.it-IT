@@ -14,10 +14,16 @@ index: true
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
 TQID: https://experienceleague.adobe.com/P1oOo9uuzrjr2BaLWfDXV5PWpgc1UT-CHu4bXS-A6BU
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2: id: ae478996-b206-4712-9b0c-dc78a2644453id: e0aa398c-6185-4e77-8cf7-2561c578c181
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: ae478996-b206-4712-9b0c-dc78a2644453
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
 source-wordcount: 372

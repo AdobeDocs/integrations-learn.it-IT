@@ -13,10 +13,18 @@ last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="Integrazione" type="positive"
 exl-id: f0dbd59d-d5e5-40e6-b4a4-e4789e7dd7e3
 TQID: https://experienceleague.adobe.com/o3HCX8vz8ZKn2j1Hl3W4XWMOudx7MBZCMNRWxO-eKbw
-product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3aid: e98b7246-966c-4318-9e95-cad2f7a17dc7
-feature_v2: id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5eid: f7c7de77-382f-4f48-8b36-61a170f06d3d
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2:
+  - id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5e
+  - id: f7c7de77-382f-4f48-8b36-61a170f06d3d
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
 source-wordcount: 341
