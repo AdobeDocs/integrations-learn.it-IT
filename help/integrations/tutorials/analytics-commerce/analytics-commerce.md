@@ -9,12 +9,19 @@ level: Beginner
 index: true
 kt: null
 thumbnail: null
-last-substantial-update: 2023-04-11T00:00:00Z
+last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="Integrazione" type="positive"
 exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
-source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
+TQID: https://experienceleague.adobe.com/yG4EZoiPmm3-HnjD6lZCyBDpaeseNuGb5wRhnCWqRuk
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c153fd90-23e1-4614-81d3-3cc7571227f7id: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: e6c28e30-8689-4bf4-8fa8-561343d308a9id: ef60b66e-5984-4336-ba72-6d978b1b6f87id: f236e2a1-90d4-477d-92e1-5996b5e92bff
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d3cdead0-685a-4489-9250-4bb709942f66id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: 932
 ht-degree: 2%
 
 ---
@@ -28,7 +35,7 @@ Queste istruzioni sono per i progetti ospitati da Adobe [!DNL Commerce] Cloud. L
 1. Verifica il codice nell’ambiente locale
 1. Utilizzare il compositore e installare il modulo
 1. Segui le singole istruzioni qui e, una volta completato, torna indietro per completare i passaggi rimanenti
-   [Installa e configura Experience [!DNL Platform] connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html?lang=it){target="_blank"}
+   [Installa e configura Experience [!DNL Platform] connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}
 
 
 1. Eseguire il commit del file compositore.json e, se nel cloud, del file compositore.lock
@@ -42,13 +49,13 @@ Per eseguire questa operazione, accedere alla sezione di amministrazione di Adob
    * Quindi le impostazioni del connettore Experience [!DNL Platform], come illustrato di seguito.
      ![Esperienza [!DNL Platform] connettore](./assets/analytics-commerce/experience-platform-connector.png)
 
-Per maggiori dettagli su ogni fase e passaggio del processo di onboarding, segui le istruzioni riportate nella [panoramica del connettore [!DNL Platform] Experience](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html?lang=it){target="_blank"}. Il tutorial sul connettore Experience [!DNL Platform] tratta ogni sezione in modo approfondito e risponde alle tue eventuali domande. Utilizza questa esercitazione per gli altri passaggi della configurazione rapida.
+Per maggiori dettagli su ogni fase e passaggio del processo di onboarding, segui le istruzioni riportate nella [panoramica del connettore [!DNL Platform] Experience](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}. Il tutorial sul connettore Experience [!DNL Platform] tratta ogni sezione in modo approfondito e risponde alle tue eventuali domande. Utilizza questa esercitazione per gli altri passaggi della configurazione rapida.
 
 ## Configurazione di Experience Edge e Adobe [!DNL Analytics]
 
 1. Verificare che l&#39;organizzazione disponga dell&#39;accesso ad Adobe [!DNL Analytics] e che tu disponga di tale accesso. Per confermare questa operazione, vai alla [home page di Adobe Experience Cloud](https://experience.adobe.com/) e fai clic sul selettore dell&#39;applicazione (nove punti) nella navigazione superiore.
 
-1. Crea una nuova suite di rapporti in Adobe [!DNL Analytics] o identifica l&#39;ID della suite di rapporti in cui verranno inseriti i dati di [!DNL Commerce]. Per ulteriori informazioni, guarda un&#39;esercitazione su [creazione di una nuova suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it). Questo ID suite di rapporti è necessario nel passaggio dello stream di dati seguente.
+1. Crea una nuova suite di rapporti in Adobe [!DNL Analytics] o identifica l&#39;ID della suite di rapporti in cui verranno inseriti i dati di [!DNL Commerce]. Per ulteriori informazioni, guarda un&#39;esercitazione su [creazione di una nuova suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html). Questo ID suite di rapporti è necessario nel passaggio dello stream di dati seguente.
 
 1. Se hai accesso all&#39;esperienza [!DNL Platform], accedi all&#39;[interfaccia [!DNL Platform] Adobe](https://platform.adobe.com). Se non hai accesso a tale interfaccia, puoi eseguire tutti i passaggi necessari elencati di seguito nell&#39;interfaccia [!DNL Platform] [Raccolta dati](https://experience.adobe.com/#/data-collection) di Adobe Experience.
 
@@ -84,9 +91,9 @@ Per maggiori dettagli su ogni fase e passaggio del processo di onboarding, segui
 
    Di seguito sono riportate alcune risorse aggiuntive per aiutarti a lavorare in Analysis Workspace:
 
-   * [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html?lang=it)
-   * [Creazione di un progetto Workspace da zero](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html?lang=it)
-   * [Utilizzo di tabelle, visualizzazioni e pannelli in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=it)
-   * [Casi di utilizzo delle visualizzazioni](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=it)
+   * [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
+   * [Creazione di un progetto Workspace da zero](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
+   * [Utilizzo di tabelle, visualizzazioni e pannelli in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
+   * [Casi di utilizzo delle visualizzazioni](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
 
-   Inoltre, sono disponibili corsi gratuiti su Experience League. Consulta [!DNL Analytics] corsi disponibili [QUI](https://experienceleague.adobe.com/it?lang=en&Solution=Analytics#courses).
+   Inoltre, sono disponibili corsi gratuiti su Experience League. Consulta [!DNL Analytics] corsi disponibili [QUI](https://experienceleague.adobe.com/?lang=en&Solution=Analytics#courses).

@@ -2,9 +2,13 @@
 title: Integrazioni di applicazioni per il percorso di clienti
 description: Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per creare percorsi personalizzati cross-channel.
 exl-id: eb653b89-db0f-433a-8641-bbeb32197096
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/XkEYtGUFWDMXc-qm4PMeRVNK8hduYOZ7sj2fkyWMCZM
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: beb7a3c1-66ab-4786-b879-7621375b3c40id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: fd2e3797-f2ea-4b36-a9af-52acf5e90513id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: 298
 ht-degree: 2%
 
 ---
@@ -26,7 +30,7 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
   <tbody>
 <tr>
   <td><strong>Creare materiale promozionale di marketing utilizzando le risorse del marchio</strong><br></td>
-  <td>Crea e supervisiona contenuti e modelli di e-mail marketing utilizzando AEM e l'Adobe [!DNL Campaign].</td>
+  <td>Crea e supervisiona contenuti e modelli di marketing e-mail tramite AEM e Adobe [!DNL Campaign].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Inviare e-mail di marketing create con AEM</li>
@@ -83,7 +87,7 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
 
 <tr>
   <td><strong>Personalizzare le consegne e-mail</strong><br></td>
-  <td>Personalizzare le consegne di e-mail con contenuto dinamico sfruttando le funzionalità dell'Adobe [!DNL Target].</td>
+  <td>Personalizzare le consegne di e-mail con contenuti dinamici sfruttando le funzionalità di Adobe [!DNL Target].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Aggiungere offerte personalizzate alle e-mail dei clienti</li>
