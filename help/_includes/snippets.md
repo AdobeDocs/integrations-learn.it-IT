@@ -43,7 +43,7 @@ Adobe Experience Manager (AEM) è un sistema di gestione dei contenuti (CMS) che
 
 Adobe Experience Manager Forms è un componente di Adobe Experience Manager, progettato per la creazione, la gestione e la distribuzione di moduli e documenti digitali. Consente alle aziende di semplificare i processi basati su moduli, come la raccolta dati, le interazioni con i clienti e le approvazioni dei documenti, fornendo un’esperienza utente fluida su vari canali, garantendo al contempo conformità e precisione dei dati.
 
-## Descrizione dell&#39;esperienza [!DNL Platform] {#experience-platform-description}
+## Descrizione dell'esperienza [!DNL Platform] {#experience-platform-description}
 
 Adobe Experience [!DNL Platform] è il sistema più potente, flessibile e aperto sul mercato per la creazione e la gestione di soluzioni complete che guidano la customer experience. L&#39;esperienza [!DNL Platform] consente alle organizzazioni di centralizzare e standardizzare i dati e i contenuti dei clienti da qualsiasi sistema e di applicare tecniche di data science e apprendimento automatico al fine di migliorare la progettazione e la distribuzione di esperienze personalizzate.
 
