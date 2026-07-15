@@ -12,7 +12,7 @@ thumbnail: experience-manager-marketo.png
 badgeIntegration: label="Integrazione" type="positive"
 last-substantial-update: 2023-07-31T00:00:00.000Z
 exl-id: c943b334-19b7-4dc8-962a-aacc18bbd9f2
-TQID: https://experienceleague.adobe.com/gD---czX7Hy8B00lC0BR0F2OrKwFyz3qZu4c0G7Q05U
+TQID: https://experienceleague.adobe.com/gD%2D%2D%2DczX7Hy8B00lC0BR0F2OrKwFyz3qZu4c0G7Q05U
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
   - id: e8f6de9b-cf88-4405-8d10-15efa08c230e
@@ -33,7 +33,7 @@ topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+source-git-commit: b2ded66ef8d2526a140989cbfd04c95edef9c5d8
 workflow-type: tm+mt
 source-wordcount: 26
 ht-degree: 3%
