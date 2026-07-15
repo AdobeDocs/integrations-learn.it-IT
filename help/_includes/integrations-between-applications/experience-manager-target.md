@@ -1,7 +1,7 @@
 ---
 source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '276'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Alcuni vantaggi dell&#39;utilizzo congiunto di Adobe Experience Manager e Adobe 
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM SITES e [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM SITES e [!DNL Target]</a></td>
             <td>Esperienza [!DNL Platform] estensione tag Web SDK o alloy.js</td>
             <td>
                 <ul style="margin-top: 0;">
@@ -52,7 +52,7 @@ Alcuni vantaggi dell&#39;utilizzo congiunto di Adobe Experience Manager e Adobe 
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=it" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service e [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service e [!DNL Target]</a></td>
             <td>Esperienza [!DNL Platform] estensione tag Web SDK o alloy.js</td>
             <td>
               <ul style="margin-top: 0;">

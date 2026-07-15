@@ -1,13 +1,13 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 2%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
 
-# Integrazione di Audience Manager e Real-Time CDP
+# Integrazione tra Audience Manager e Real-Time CDP
 
 {{audience-manager-description}}
 
@@ -26,7 +26,7 @@ L’integrazione di Adobe Audience Manager e Adobe Real-Time CDP offre i seguent
 <table>
     <thead>
         <tr>
-            <th>applicazioni Experience Cloud</th>
+            <th>Applicazioni Experience Cloud</th>
             <th>Integra tramite</th>
             <th>Quando utilizzare</th>
             <th>Casi d’uso comuni</th>
@@ -35,7 +35,7 @@ L’integrazione di Adobe Audience Manager e Adobe Real-Time CDP offre i seguent
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=it" target="_blank" rel="noreferrer">Audience Manager e Real-Time CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager e Real-Time CDP</a>
             </td>
             <td>Connettore dati Adobe Audience Manager</td>
             <td>

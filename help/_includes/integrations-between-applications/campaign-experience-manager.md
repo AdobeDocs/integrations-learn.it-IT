@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '146'
 ht-degree: 2%
 
 ---
@@ -16,14 +16,14 @@ ht-degree: 2%
 I vantaggi principali dell&#39;integrazione di Adobe [!DNL Campaign] e AEM Experience Manager sono:
 
 + **Gestisci il contenuto delle tue consegne e-mail** e dei tuoi moduli direttamente in Adobe Experience Manager.
-+ **Utilizza le risorse del brand durante la modifica di un&#39;e-mail o di una pagina di destinazione** nell&#39;Adobe [!DNL Campaign], da Adobe Experience Manager Assets.
++ **Utilizza le risorse per il brand durante la modifica di un&#39;e-mail o di una pagina di destinazione** in Adobe [!DNL Campaign], da Adobe Experience Manager Assets.
 
 ## Integrazioni comuni
 
 <table>
     <thead>
         <tr>
-            <th>applicazioni Experience Cloud</th>
+            <th>Applicazioni Experience Cloud</th>
             <th>Integra tramite</th>
             <th>Quando utilizzare</th>
             <th>Casi d’uso comuni</th>
@@ -32,7 +32,7 @@ I vantaggi principali dell&#39;integrazione di Adobe [!DNL Campaign] e AEM Exper
     <tbody>
         <tr>
             <td><a href="../../integrations/tutorials/campaign-aem/campaign-v8-with-experience-manager.md" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 con AEM Assets 6.5</a></td>
-            <td>Pacchetto di integrazione AEM</td>
+            <td>Pacchetto di integrazione per AEM</td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Quando desideri creare modelli e-mail o pagine di destinazione utilizzando l’authoring WYSIWYG.</li>
@@ -47,7 +47,7 @@ I vantaggi principali dell&#39;integrazione di Adobe [!DNL Campaign] e AEM Exper
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html?lang=it" target="_blank" rel="noreferrer">[!DNL Campaign] Standard con AEM Forms</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] Standard con AEM Forms</a></td>
             <td>Token di accesso Adobe IMS</td>
             <td>
                 <ul style="margin-top: 0;">

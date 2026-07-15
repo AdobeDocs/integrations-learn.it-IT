@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 2%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 2%
 
 I connettori Adobe [!DNL Campaign] Managed Cloud Service Destination e Source consentono l&#39;integrazione diretta tra Adobe [!DNL Campaign] e Adobe Experience [!DNL Platform]. I vantaggi principali di questa integrazione includono:
 
-+ **Aumenta le funzionalità di segmentazione di [!DNL Campaign]** con i tipi di pubblico basati su [!DNL Platform] di Adobe Experience e attiva tali dati in [!DNL Campaign].
++ **Aumenta le funzionalità di segmentazione di [!DNL Campaign]** con i tipi di pubblico basati su Adobe Experience [!DNL Platform] e attiva tali dati in [!DNL Campaign].
 
 ## Integrazioni comuni
 
 <table>
     <thead>
         <tr>
-            <th>applicazioni Experience Cloud</th>
+            <th>Applicazioni Experience Cloud</th>
             <th>Integra tramite</th>
             <th>Quando utilizzare</th>
             <th>Casi d’uso comuni</th>
@@ -31,10 +31,10 @@ I connettori Adobe [!DNL Campaign] Managed Cloud Service Destination e Source co
     <tbody>
         <tr>
             <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">[!DNL Campaign] v8 con Real-Time CDP</a></td>
-            <td>[!DNL Campaign] Destinazione Cloud Service gestiti</td>
+            <td>[!DNL Campaign] Destinazione Managed Cloud Services</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Sfrutta l'esperienza Adobe [!DNL Platform] basata sui segmenti avanzati e attivali utilizzando l'Adobe [!DNL Campaign] per raggiungere la propria base clienti tra i diversi canali supportati dall'Adobe [!DNL Campaign].</li>
+                    <li>Sfrutta i segmenti avanzati basati su Adobe Experience [!DNL Platform] e attivali utilizzando Adobe [!DNL Campaign] per raggiungere la propria base clienti tra i diversi canali supportati da Adobe [!DNL Campaign].</li>
                 </ul>
             </td>
             <td>
