@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 1%
+source-wordcount: '258'
+ht-degree: 6%
 
 ---
 
@@ -21,14 +21,14 @@ I vantaggi principali dell&#39;integrazione di Adobe Customer Percorsi [!DNL Ana
 + **Semplice attivazione dei dati**: semplifica l&#39;attivazione dei dati, abilitando esperienze personalizzate su più canali.
 + **Attribuzione marketing migliorata**: attribuisce con precisione l&#39;impatto dei punti di contatto, migliorando la misurazione e l&#39;ottimizzazione del ROI.
 
-Nel complesso, l&#39;integrazione di Adobe Customer Percorsi [!DNL Analytics] e Adobe Real-Time CDP consente alle aziende di fornire esperienze cliente eccezionali, stimolare il coinvolgimento dei clienti e prendere decisioni di marketing informate sulla base di informazioni complete e in tempo reale sui clienti.
+Nel complesso, l&#39;integrazione del Percorso clienti Adobe [!DNL Analytics] e di Adobe Real-Time CDP consente alle aziende di fornire esperienze cliente eccezionali, stimolare il coinvolgimento dei clienti e prendere decisioni di marketing informate sulla base di informazioni complete e in tempo reale sui clienti.
 
 ## Integrazioni comuni
 
 <table>
     <thead>
         <tr>
-            <th>applicazioni Experience Cloud</th>
+            <th>Applicazioni Experience Cloud</th>
             <th>Integra tramite</th>
             <th>Quando utilizzare</th>
             <th>Casi d’uso comuni</th>
@@ -41,8 +41,8 @@ Nel complesso, l&#39;integrazione di Adobe Customer Percorsi [!DNL Analytics] e 
             <td>
                 <ul style="margin-top: 0;">
                     <li>Quando desideri utilizzare un pubblico del Percorso di clienti [!DNL Analytics] (CJA) per un percorso in Adobe Journey Optimizer.</li>
-                    <li>Quando desideri esportare il pubblico di CJA in una terza parte tramite una destinazione Experience [!DNL Platform].</li>
-                    <li>Quando desideri arricchire il profilo cliente in tempo reale con attributi utili derivati dai dati basati su eventi in CJA.</li>
+                    <li>Quando desideri esportare il pubblico CJA in una terza parte tramite una destinazione Experience [!DNL Platform].</li>
+                    <li>Quando desideri arricchire Real-Time Customer Profile con attributi utili derivati dai dati basati su eventi in CJA.</li>
                     <li>Latenza minima dopo la pubblicazione del pubblico in Real-Time CDP.</li>
                     <li>Quando desideri pubblicare tipi di pubblico una tantum o ricorrenti.</li>
                 </ul>
