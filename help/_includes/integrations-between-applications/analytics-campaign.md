@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '155'
 ht-degree: 2%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 2%
 
 L&#39;integrazione di Adobe [!DNL Analytics] con Adobe [!DNL Campaign] consente la condivisione dei dati e il tracciamento delle e-mail senza soluzione di continuità e offre i seguenti vantaggi:
 
-+ **Condividi i dati dei KPI** dall&#39;Adobe [!DNL Campaign] all&#39;Adobe [!DNL Analytics].
-+ **Arricchisci le formule di tracciamento** con parametri di Adobe [!DNL Analytics].
++ **Condividi dati KPI** da Adobe [!DNL Campaign] ad Adobe [!DNL Analytics].
++ **Arricchisci le formule di tracciamento** con i parametri Adobe [!DNL Analytics].
 + Utilizza Triggers per **inviare e-mail personalizzate** in base a specifici comportamenti tracciati.
 
 ## Integrazioni comuni
@@ -24,7 +24,7 @@ L&#39;integrazione di Adobe [!DNL Analytics] con Adobe [!DNL Campaign] consente 
 <table>
     <thead>
         <tr>
-            <th>applicazioni Experience Cloud</th>
+            <th>Applicazioni Experience Cloud</th>
             <th>Integra tramite</th>
             <th>Quando utilizzare</th>
             <th>Casi d’uso comuni</th>
@@ -33,10 +33,10 @@ L&#39;integrazione di Adobe [!DNL Analytics] con Adobe [!DNL Campaign] consente 
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Standard con [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=it" target="_blank" rel="noreferrer">Account [!DNL Campaign] esterno collegato all'Adobe [!DNL Analytics] e configurazione amministratore in [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Account [!DNL Campaign] esterno collegato ad Adobe [!DNL Analytics] e configurazione amministratore in [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Quando desideri tenere traccia del successo delle consegne di e-mail da [!DNL Campaign] direttamente nell'Adobe [!DNL Analytics].</li>
+                    <li>Quando desideri tenere traccia del successo delle consegne di e-mail da [!DNL Campaign] direttamente in Adobe [!DNL Analytics].</li>
                 </ul>
             </td>
             <td>
