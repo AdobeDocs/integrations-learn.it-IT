@@ -1,5 +1,5 @@
 ---
-title: Integra Adobe [!DNL Analytics] e Percorso di clienti [!DNL Analytics] con l'esercitazione di Experience [!DNL Platform] Edge
+title: Integrare Adobe [!DNL Analytics] e Percorso di clienti [!DNL Analytics] con l'esercitazione di Edge sull'esperienza [!DNL Platform]
 description: Scopri come integrare Adobe [!DNL Analytics] con il Percorso clienti [!DNL Analytics] utilizzando AEP Web SDK, AEP Mobile SDK o l'API server di Edge Network.
 solution: Customer Journey Analytics, Analytics
 feature: Integrations
@@ -7,33 +7,43 @@ topic: Integrations
 role: Developer
 level: Experienced
 index: true
-kt: null
+kt:
 thumbnail: 13728
 last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="Integrazione" type="positive"
 exl-id: e39dac5d-6ad5-47c8-94e8-070011233161
-TQID: https://experienceleague.adobe.com/ClZddWXeWp51gWTBjRDQBZ2xNiO1bTRq-AoAdmucNEg
+TQID: 'https://experienceleague.adobe.com/ClZddWXeWp51gWTBjRDQBZ2xNiO1bTRq-AoAdmucNEg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5e
+    internal-label: Integrations
   - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+    internal-label: API
 subfeature_v2:
   - id: e6c28e30-8689-4bf4-8fa8-561343d308a9
+    internal-label: Experience Cloud integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Implementation
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 413
-ht-degree: 15%
-
+source-wordcount: '418'
+ht-degree: 14%
 ---
-
 # Integrare Adobe [!DNL Analytics] e Percorso di clienti [!DNL Analytics] con l&#39;esercitazione di Edge sull&#39;esperienza [!DNL Platform]
 
 <ol>

@@ -1,43 +1,60 @@
 ---
-title: Integra [!DNL Campaign]  con Experience Manager
+title: Integrare [!DNL Campaign] con Experience Manager
 description: Integra Adobe Experience Manager (AEM) con [!DNL Campaign] per creare e gestire campagne e-mail.
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Campaign Standard, Campaign Classic v7, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
-kt: null
+kt:
 thumbnail: campaign-experience-manager.png
 badgeIntegration: label="Integrazione" type="positive"
 last-substantial-update: 2023-07-31T00:00:00.000Z
 exl-id: 3b186af3-d72f-4fe5-adfb-daad94075095
-TQID: https://experienceleague.adobe.com/9M0qXs4PA-DiTk-FfDr73aCiyhIFsOR-vjeykwVqsrE
+TQID: 'https://experienceleague.adobe.com/9M0qXs4PA-DiTk-FfDr73aCiyhIFsOR-vjeykwVqsrE'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
   - id: e8f6de9b-cf88-4405-8d10-15efa08c230e
+    internal-label: Experience Manager Forms
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
+    internal-label: Campaign v8 Web User Interface
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
   - id: a1df6763-63b5-45b4-8c8a-155a692a2b3e
+    internal-label: Integrations
   - id: ae478996-b206-4712-9b0c-dc78a2644453
+    internal-label: Integrations
   - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+    internal-label: Integrations
 subfeature_v2:
   - id: df0d6518-6f49-46e2-b46e-3bcc513f553f
+    internal-label: Experience Manager integration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Customer experience
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 19
-ht-degree: 5%
-
+source-wordcount: '21'
+ht-degree: 4%
 ---
-
 # Integrare [!DNL Campaign] con Experience Manager
 
 {{$include /help/_includes/integrations-between-applications/campaign-experience-manager.md}}

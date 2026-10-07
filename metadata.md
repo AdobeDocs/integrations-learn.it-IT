@@ -1,8 +1,9 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
+solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: "Experience Cloud"
 usetq: true
 topic: Integrations
 product: experience cloud
@@ -12,13 +13,11 @@ mini-toc-levels: 2
 auto-video-transcripts: true
 git-repo: https://github.com/AdobeDocs/integrations-learn.it-IT
 index: true
-source-git-commit: 39cd28edcb53b621e8d977a0559a1db4465d3f0b
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 69
-ht-degree: 92%
-
+source-wordcount: '64'
+ht-degree: 100%
 ---
-
 
 # Metadati per uso interno
 
