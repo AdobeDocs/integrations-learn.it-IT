@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 3%
-
+source-wordcount: '112'
+ht-degree: 2%
 ---
-
 
 # Esperienza Experience Manager e Adobe [!DNL Platform]
 
@@ -13,7 +11,7 @@ ht-degree: 3%
 
 {{experience-platform-description}}
 
-L&#39;integrazione dell&#39;AEM e dell&#39;esperienza [!DNL Platform] offre diversi vantaggi, tra cui:
+L&#39;integrazione di AEM e dell&#39;esperienza [!DNL Platform] offre diversi vantaggi, tra cui:
 
 + **Acquisizione dei dati**: acquisisci e unifica dati da varie origini per una visualizzazione olistica del cliente.
 + **Profili cliente**: crea profili unificati con dati comportamentali, transazionali e demografici.
@@ -24,7 +22,7 @@ L&#39;integrazione dell&#39;AEM e dell&#39;esperienza [!DNL Platform] offre dive
 <table>
     <thead>
         <tr>
-            <th>applicazioni Experience Cloud</th>
+            <th>Applicazioni Experience Cloud</th>
             <th>Integra tramite</th>
             <th>Quando utilizzare</th>
             <th>Casi d’uso comuni</th>
@@ -36,7 +34,7 @@ L&#39;integrazione dell&#39;AEM e dell&#39;esperienza [!DNL Platform] offre dive
             <td>Esperienza [!DNL Platform] Web SDK</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Quando si desidera posizionare l'AEM in modo da poterlo integrare con altre applicazioni Adobe Experience Cloud.</li>
+                    <li>Quando vuoi posizionare AEM in modo che possa integrarsi con altre applicazioni Adobe Experience Cloud.</li>
                 </ul>
             </td>
             <td>
