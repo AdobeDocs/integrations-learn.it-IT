@@ -30,7 +30,7 @@ L&#39;integrazione di AEM e dell&#39;esperienza [!DNL Platform] offre diversi va
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager ed esperienza [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=it" target="_blank" rel="noreferrer">Experience Manager ed esperienza [!DNL Platform]</a></td>
             <td>Esperienza [!DNL Platform] Web SDK</td>
             <td>
                 <ul style="margin-top: 0;">
