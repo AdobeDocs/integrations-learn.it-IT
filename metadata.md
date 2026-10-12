@@ -1,9 +1,6 @@
 ---
 cloud: Experience Cloud
 solution: CX Enterprise
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: "Experience Cloud"
 usetq: true
 topic: Integrations
 product: experience cloud
@@ -11,9 +8,12 @@ feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Custo
 type: Tutorial
 mini-toc-levels: 2
 auto-video-transcripts: true
-git-repo: https://github.com/AdobeDocs/integrations-learn.it-IT
+git-repo: https://github.com/AdobeDocs/integrations-learn.en
 index: true
-source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+source-git-commit: 908ac4611b558f5de065677b7534387f4b4fd1fa
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%

@@ -15,8 +15,6 @@ product_v2:
   - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
     internal-label: Experience Platform
 feature_v2:
-  - id: ed0d8d0e-04b9-4326-be72-a0fbca265377
-    internal-label: ''
   - id: f6ac78a3-5b59-40f5-a37d-45df5303d3a3
     internal-label: Dashboards
 subfeature_v2:
@@ -33,7 +31,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
+source-git-commit: 908ac4611b558f5de065677b7534387f4b4fd1fa
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
