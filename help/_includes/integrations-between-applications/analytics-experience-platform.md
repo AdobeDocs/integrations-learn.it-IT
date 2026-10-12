@@ -1,13 +1,11 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '150'
 ht-degree: 2%
-
 ---
 
-
-# Integra l&#39;Adobe [!DNL Analytics] con l&#39;esperienza [!DNL Platform]
+# Integra Adobe [!DNL Analytics] con esperienza [!DNL Platform]
 
 {{analytics-description}}
 
@@ -26,7 +24,7 @@ Integrando queste piattaforme, le aziende possono sfruttare i dati per esperienz
 <table>
     <thead>
         <tr>
-            <th>applicazioni Experience Cloud</th>
+            <th>Applicazioni Experience Cloud</th>
             <th>Integra tramite</th>
             <th>Quando utilizzare</th>
             <th>Casi d’uso comuni</th>
