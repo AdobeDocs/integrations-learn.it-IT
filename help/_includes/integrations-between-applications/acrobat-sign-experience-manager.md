@@ -1,13 +1,11 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '137'
 ht-degree: 2%
-
 ---
 
-
-# Integrazione di Acrobat Sign e Experience Manager
+# Integrazione tra Acrobat Sign e Experience Manager
 
 {{acrobat-sign-description}}
 
@@ -25,7 +23,7 @@ L’integrazione di Acrobat Sign con Adobe Experience Manager (AEM) offre i segu
 <table>
     <thead>
         <tr>
-            <th>applicazioni Experience Cloud</th>
+            <th>Applicazioni Experience Cloud</th>
             <th>Quando utilizzare</th>
             <th>Casi d’uso comuni</th>
         </tr>
