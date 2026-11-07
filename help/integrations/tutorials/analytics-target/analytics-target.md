@@ -106,7 +106,7 @@ In questo video, destinato agli sviluppatori, scopri come:
 * Spiega in che modo [!DNL Analytics] e [!DNL Target] richieste si associano utilizzando SDID
 * Descrizione dei requisiti di implementazione per Adobe [!DNL Analytics] con Adobe [!DNL Target] (A4T)
 
->[!VIDEO](https://video.tv.adobe.com/v/35146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507694/?captions=ita&quality=12&learn=on)
 
 ### Utilizza [!DNL Analytics] come Source dati per [!DNL Target]
 
