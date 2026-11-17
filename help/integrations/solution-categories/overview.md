@@ -4,14 +4,12 @@ description: Scopri le configurazioni di integrazione comuni per applicazioni Ex
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 11%
-
 ---
-
 # Configurazioni di integrazione per Experience Cloud, organizzate per soluzione
 
-Questa sezione aiuta chiunque abbia un’esigenza aziendale, ma non è sicuro di quali applicazioni Adobe utilizzare e di come integrarle. Di seguito sono elencate molte delle configurazioni di integrazione più comuni, organizzate per soluzioni (marketing B2B, catena di fornitura dei contenuti, approfondimenti sui dati e attivazione, ecc.).
+Questa sezione aiuta chiunque abbia un’esigenza aziendale, ma non è sicuro di quali applicazioni Adobe utilizzare e di come integrarle. Di seguito sono elencate molte delle configurazioni di integrazione più comuni, organizzate per soluzioni (marketing B2B, content supply chain, approfondimenti sui dati e attivazione, ecc.).
 
 Tieni presente che esistono diversi modi per configurare le applicazioni Adobe, a seconda dell’ambiente. L’obiettivo di questa sezione è fornire indicazioni su come distribuirle così come sono o modificarle per soddisfare le esigenze del tuo ambiente.
 
@@ -41,8 +39,8 @@ Tieni presente che esistono diversi modi per configurare le applicazioni Adobe, 
 </tr>
 <tr>
    <td>
-      <a  href="./content-supply-chain.md"><img alt="Catena di fornitura contenuto" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png?lang=it"/></a>
-      <div><strong><a href="./content-supply-chain.md">Catena di fornitura dei contenuti</a></strong></div>
+      <a  href="./content-supply-chain.md"><img alt="Supply chain dei contenuti" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png?lang=it"/></a>
+      <div><strong><a href="./content-supply-chain.md">Contenuto supply chain</a></strong></div>
       <p>
         Accelerare la creazione e la distribuzione dei contenuti
       </p> 
